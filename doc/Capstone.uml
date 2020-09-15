@@ -1,0 +1,3284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>za.ac.mandela.WRPV301.Capstone</OriginalElement>
+  <nodes>
+    <node x="13737.358172998745" y="3983.0">za.ac.mandela.WRPV301.Capstone.Item.Room.RoomItem</node>
+    <node x="6398.680390405447" y="12465.0">za.ac.mandela.WRPV301.Capstone.UI.GameController</node>
+    <node x="11138.047617154627" y="3883.0">za.ac.mandela.WRPV301.Capstone.Item.Player.Armour.Armour</node>
+    <node x="5558.705422598963" y="3872.0">za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.EpicWeapon.EpicAdjective</node>
+    <node x="4619.712242174366" y="5223.0">za.ac.mandela.WRPV301.Capstone.Map.MapData</node>
+    <node x="7828.400672026001" y="3839.0">za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.Weapon</node>
+    <node x="5657.310184503726" y="1112.0">za.ac.mandela.WRPV301.Capstone.Map.Location.MapLocation.Material</node>
+    <node x="11459.047617154627" y="3895.0">za.ac.mandela.WRPV301.Capstone.Item.Player.Armour.CrudeArmour.CrudeMaterial</node>
+    <node x="6734.367109502522" y="4687.0">za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.RareWeapon</node>
+    <node x="5048.710184503727" y="45.0">za.ac.mandela.WRPV301.Capstone.Util.Utils</node>
+    <node x="12581.42245871303" y="4655.0">za.ac.mandela.WRPV301.Capstone.Combat.Combatant</node>
+    <node x="6632.2393419767395" y="3895.0">za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.RareWeapon.RareMaterial</node>
+    <node x="13928.358172998745" y="7868.0">za.ac.mandela.WRPV301.Capstone.Util.InputParser</node>
+    <node x="1709.157876175549" y="11738.0">za.ac.mandela.WRPV301.Capstone.UI.CanvasManager</node>
+    <node x="1781.8682433945369" y="3020.5">za.ac.mandela.WRPV301.Capstone.Map.Access.Opening</node>
+    <node x="4432.14589878944" y="4665.5">za.ac.mandela.WRPV301.Capstone.Map.MapData.SerializableMapData</node>
+    <node x="548.1166666666668" y="10794.0">za.ac.mandela.WRPV301.Capstone.Map.Access.Lockable.Lock.Key.Quality</node>
+    <node x="10909.353172710184" y="4698.5">za.ac.mandela.WRPV301.Capstone.Item.Player.Armour.CrudeArmour</node>
+    <node x="13320.072458713032" y="4677.0">za.ac.mandela.WRPV301.Capstone.Item.Room.Crown</node>
+    <node x="13464.947458713032" y="7867.0">za.ac.mandela.WRPV301.Capstone.Item.Room.HealthChest</node>
+    <node x="9929.040672710184" y="4698.5">za.ac.mandela.WRPV301.Capstone.Item.Player.Armour.CommonArmour</node>
+    <node x="2675.2708987894403" y="8462.0">za.ac.mandela.WRPV301.Capstone.Combat.Humanoid.HumanoidAdjective</node>
+    <node x="627.9742033871416" y="4721.5">za.ac.mandela.WRPV301.Capstone.Event.PlayerChangeEvent</node>
+    <node x="3308.333454295579" y="2889.0">za.ac.mandela.WRPV301.Capstone.Map.Location.Direction</node>
+    <node x="3579.9236058107313" y="10783.0">za.ac.mandela.WRPV301.Capstone.Launcher</node>
+    <node x="2865.295004524168" y="7637.0">za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.EpicWeapon.Name</node>
+    <node x="1740.701576727869" y="2129.0">za.ac.mandela.WRPV301.Capstone.Map.Access.Opening.Type</node>
+    <node x="2033.8682433945369" y="2194.5">za.ac.mandela.WRPV301.Capstone.Map.Access.Lockable.Lock</node>
+    <node x="977.4499999999998" y="11242.5">za.ac.mandela.WRPV301.Capstone.Map.Access.Lockable.Lock.Key</node>
+    <node x="6391.440839265631" y="7112.0">za.ac.mandela.WRPV301.Capstone.Game</node>
+    <node x="8283.38550029639" y="4687.0">za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.CrudeWeapon</node>
+    <node x="12170.697458713028" y="7890.0">za.ac.mandela.WRPV301.Capstone.Combat.Insect.InsectSize</node>
+    <node x="6783.166832408926" y="8953.0">za.ac.mandela.WRPV301.Capstone.Combat.Humanoid</node>
+    <node x="11009.203867154627" y="3089.0">za.ac.mandela.WRPV301.Capstone.Item.Player.Armour.ArmourMaterial</node>
+    <node x="13561.733172998745" y="4544.0">za.ac.mandela.WRPV301.Capstone.Item.Player.HealthPotion</node>
+    <node x="2077.391892443844" y="653.0">za.ac.mandela.WRPV301.Capstone.Map.Access.Accessway.Size</node>
+    <node x="783.1166666666668" y="10805.0">za.ac.mandela.WRPV301.Capstone.Map.Access.Lockable.Lock.Key.Size</node>
+    <node x="7531.400672026001" y="3895.0">za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.CommonWeapon.CommonAdjective</node>
+    <node x="6970.400672026001" y="3895.0">za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.RareWeapon.RareAdjective</node>
+    <node x="5220.310184503726" y="1112.0">za.ac.mandela.WRPV301.Capstone.Map.Location.MapLocation.Lighting</node>
+    <node x="12216.42245871303" y="8461.0">za.ac.mandela.WRPV301.Capstone.Combat.Insect</node>
+    <node x="8355.88550029639" y="3884.0">za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.CrudeWeapon.CrudeMaterial</node>
+    <node x="9844.540672710184" y="3895.0">za.ac.mandela.WRPV301.Capstone.Item.Player.Armour.RareArmour.RareMaterial</node>
+    <node x="3770.124549978713" y="3873.0">za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.EpicWeapon.EpicMaterial</node>
+    <node x="11597.709562967435" y="7845.0">za.ac.mandela.WRPV301.Capstone.Combat.Fight</node>
+    <node x="1555.4688181071797" y="3971.5">za.ac.mandela.WRPV301.Capstone.Event.GenerationEvent</node>
+    <node x="14127.328459444523" y="740.5">za.ac.mandela.WRPV301.Capstone.Action.Actionable</node>
+    <node x="13919.17900633208" y="0.0">za.ac.mandela.WRPV301.Capstone.Action.Action</node>
+    <node x="2513.9039576802506" y="664.0">za.ac.mandela.WRPV301.Capstone.Map.Access.Lockable.Material</node>
+    <node x="12788.959147968426" y="619.0">za.ac.mandela.WRPV301.Capstone.Action.ActionBuilder</node>
+    <node x="7939.971011679425" y="8450.0">za.ac.mandela.WRPV301.Capstone.Combat.Ghost</node>
+    <node x="3683.4578833120463" y="9727.5">za.ac.mandela.WRPV301.Capstone.Util.FileIO</node>
+    <node x="7239.400672026001" y="3917.0">za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.CommonWeapon.CommonMaterial</node>
+    <node x="8808.53973166285" y="11815.0">za.ac.mandela.WRPV301.Capstone.Util.ResourceMapping</node>
+    <node x="11662.863578492139" y="9572.0">za.ac.mandela.WRPV301.Capstone.Combat.Enemy</node>
+    <node x="5101.14589878944" y="4622.0">za.ac.mandela.WRPV301.Capstone.Map.MapData.TraversalGroupManager</node>
+    <node x="10386.540672710184" y="4698.5">za.ac.mandela.WRPV301.Capstone.Item.Player.Armour.RareArmour</node>
+    <node x="8641.040672710184" y="3089.0">za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.WeaponAdjective</node>
+    <node x="12005.467745158807" y="4721.5">za.ac.mandela.WRPV301.Capstone.Event.GameLossEvent</node>
+    <node x="13250.202897968426" y="1155.5">za.ac.mandela.WRPV301.Capstone.Action.Describable</node>
+    <node x="102.5" y="11210.0">za.ac.mandela.WRPV301.Capstone.Util.Utils.XYWH</node>
+    <node x="12779.072458713032" y="7911.5">za.ac.mandela.WRPV301.Capstone.Item.Room.Corpse</node>
+    <node x="8454.38550029639" y="3089.0">za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.WeaponMaterial</node>
+    <node x="1000.1166666666668" y="10794.0">za.ac.mandela.WRPV301.Capstone.Map.Access.Lockable.Lock.Key.Material</node>
+    <node x="2553.2090350812277" y="3043.0">za.ac.mandela.WRPV301.Capstone.Map.Access.Gate</node>
+    <node x="3802.0245499787134" y="10429.0">za.ac.mandela.WRPV301.Capstone.Util.FileIO.XMLResult</node>
+    <node x="7693.608696408488" y="2933.5">za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.Weapon.WeaponType</node>
+    <node x="5230.705422598965" y="3916.0">za.ac.mandela.WRPV301.Capstone.Map.MapData.TraversalGroup</node>
+    <node x="5406.3601845037265" y="2062.0">za.ac.mandela.WRPV301.Capstone.Map.Location.MapLocation</node>
+    <node x="2501.4039576802506" y="1527.0">za.ac.mandela.WRPV301.Capstone.Map.Access.Lockable</node>
+    <node x="9982.191455029179" y="696.0">za.ac.mandela.WRPV301.Capstone.Event.ConsoleEvent</node>
+    <node x="11242.572607234604" y="10297.0">za.ac.mandela.WRPV301.Capstone.Map.Location.Room</node>
+    <node x="11301.853172710184" y="5608.5">za.ac.mandela.WRPV301.Capstone.Player</node>
+    <node x="10107.540672710184" y="3895.0">za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.CrudeWeapon.CrudeAdjective</node>
+    <node x="10786.540672710184" y="3895.0">za.ac.mandela.WRPV301.Capstone.Item.Player.Armour.CrudeArmour.CrudeAdjective</node>
+    <node x="11478.572607234604" y="10838.0">za.ac.mandela.WRPV301.Capstone.Item.Player.PlayerItem</node>
+    <node x="7243.115939551783" y="4687.0">za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.CommonWeapon</node>
+    <node x="7821.279266645643" y="8975.5">za.ac.mandela.WRPV301.Capstone.Combat.Ghost.GhostType</node>
+    <node x="12136.12607849214" y="8975.5">za.ac.mandela.WRPV301.Capstone.Combat.Insect.InsectType</node>
+    <node x="10.5" y="10848.5">za.ac.mandela.WRPV301.Capstone.Util.Utils.XY</node>
+    <node x="9127.040672710184" y="3895.0">za.ac.mandela.WRPV301.Capstone.Item.Player.Armour.CommonArmour.CommonMaterial</node>
+    <node x="8830.040672710184" y="3895.0">za.ac.mandela.WRPV301.Capstone.Item.Player.Armour.CommonArmour.CommonAdjective</node>
+    <node x="2278.368243394537" y="1166.5">za.ac.mandela.WRPV301.Capstone.Map.Access.Door</node>
+    <node x="336.16666666666697" y="5785.5">za.ac.mandela.WRPV301.Capstone.Event.MapChangeEvent</node>
+    <node x="5352.310184503726" y="1659.5">za.ac.mandela.WRPV301.Capstone.Map.Location.Passage</node>
+    <node x="4239.6101845037265" y="1659.5">za.ac.mandela.WRPV301.Capstone.Event.LocationChangeEvent</node>
+    <node x="3629.7986058107313" y="11332.0">za.ac.mandela.WRPV301.Capstone.Main</node>
+    <node x="10440.915672710184" y="3089.0">za.ac.mandela.WRPV301.Capstone.Item.Player.Armour.ArmourAdjective</node>
+    <node x="13053.072458713032" y="2999.5">za.ac.mandela.WRPV301.Capstone.Item.Player.Equippable</node>
+    <node x="7585.971011679425" y="7824.0">za.ac.mandela.WRPV301.Capstone.Combat.Ghost.GhostAdjective</node>
+    <node x="9419.040672710184" y="3895.0">za.ac.mandela.WRPV301.Capstone.Item.Player.Armour.RareArmour.RareAdjective</node>
+    <node x="2856.7772168994097" y="1199.5">za.ac.mandela.WRPV301.Capstone.Event.AccesswayChangeEvent</node>
+    <node x="2978.2708987894403" y="8472.0">za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.EpicWeapon</node>
+    <node x="1126.2718390804594" y="4688.0">za.ac.mandela.WRPV301.Capstone.UI.GenerateDialogController</node>
+    <node x="4061.1458987894403" y="3861.0">za.ac.mandela.WRPV301.Capstone.Map.Access.Accessway</node>
+    <node x="11841.467745158807" y="4721.5">za.ac.mandela.WRPV301.Capstone.Event.GameWinEvent</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.Location.MapLocation.Material" target="za.ac.mandela.WRPV301.Capstone.Map.Location.MapLocation">
+      <point x="-44.0" y="137.5" />
+      <point x="5723.310184503726" y="1427.0" />
+      <point x="5707.060184503726" y="1427.0" />
+      <point x="5707.060184503726" y="1962.0" />
+      <point x="5585.760184503726" y="1962.0" />
+      <point x="23.399999999999636" y="-248.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.Access.Lockable.Lock.Key" target="za.ac.mandela.WRPV301.Capstone.Item.Player.PlayerItem">
+      <point x="89.14285714285711" y="-116.5" />
+      <point x="1162.5928571428567" y="11190.0" />
+      <point x="11506.23927390127" y="11190.0" />
+      <point x="-55.33333333333394" y="93.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.MapData" target="za.ac.mandela.WRPV301.Capstone.Map.Location.Direction">
+      <point x="-201.13636363636397" y="-589.5" />
+      <point x="4713.575878538002" y="5163.0" />
+      <point x="3425.333454295579" y="5163.0" />
+      <point x="3425.333454295579" y="3819.0" />
+      <point x="3440.833454295579" y="3819.0" />
+      <point x="0.0" y="215.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.MapData" target="za.ac.mandela.WRPV301.Capstone.Item.Room.Crown">
+      <point x="281.590909090909" y="-589.5" />
+      <point x="5196.303151265276" y="5153.0" />
+      <point x="13351.239125379696" y="5153.0" />
+      <point x="-62.33333333333394" y="71.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.Armour.RareArmour" target="za.ac.mandela.WRPV301.Capstone.Item.Player.Armour.RareArmour.RareMaterial">
+      <point x="-60.75" y="-50.0" />
+      <point x="10487.790672710184" y="4294.0" />
+      <point x="9905.290672710184" y="4294.0" />
+      <point x="-60.75" y="126.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.Weapon" target="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.Weapon.WeaponType">
+      <point x="-173.25" y="-182.5" />
+      <point x="7847.650672026001" y="3509.0" />
+      <point x="7816.608696408488" y="3509.0" />
+      <point x="0.0" y="170.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.Access.Lockable.Lock" target="za.ac.mandela.WRPV301.Capstone.Map.Access.Lockable">
+      <point x="-21.75" y="-116.0" />
+      <point x="2099.118243394537" y="1992.0" />
+      <point x="2513.0403213166146" y="1992.0" />
+      <point x="-116.36363636363649" y="182.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Game" target="za.ac.mandela.WRPV301.Capstone.Event.MapChangeEvent">
+      <point x="-90.9375" y="-137.5" />
+      <point x="6397.503339265631" y="6492.0" />
+      <point x="469.5" y="6492.0" />
+      <point x="53.33333333333337" y="27.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.UI.GenerateDialogController" target="za.ac.mandela.WRPV301.Capstone.Util.Utils">
+      <point x="-66.75" y="-60.5" />
+      <point x="1193.0218390804594" y="409.0" />
+      <point x="5102.434322434761" y="409.0" />
+      <point x="-110.27586206896558" y="104.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.Armour.CommonArmour" target="za.ac.mandela.WRPV301.Capstone.Item.Player.Armour.ArmourAdjective">
+      <point x="22.0" y="-50.0" />
+      <point x="10127.040672710184" y="4384.0" />
+      <point x="10498.415672710184" y="4384.0" />
+      <point x="10498.415672710184" y="3669.0" />
+      <point x="10493.415672710184" y="3669.0" />
+      <point x="-31.5" y="15.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.Location.Room" target="za.ac.mandela.WRPV301.Capstone.Combat.Fight">
+      <point x="-12.625" y="-193.0" />
+      <point x="11381.447607234604" y="10097.0" />
+      <point x="11291.891210757516" y="10097.0" />
+      <point x="11291.891210757516" y="8370.0" />
+      <point x="11689.509562967434" y="8370.0" />
+      <point x="-61.20000000000073" y="138.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.UI.CanvasManager" target="za.ac.mandela.WRPV301.Capstone.Util.Utils.XY">
+      <point x="-121.19999999999982" y="-303.5" />
+      <point x="1739.4578761755492" y="11708.0" />
+      <point x="82.33333333333303" y="11708.0" />
+      <point x="82.33333333333303" y="11190.0" />
+      <point x="110.0" y="11190.0" />
+      <point x="0.0" y="83.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.Access.Lockable" target="za.ac.mandela.WRPV301.Capstone.Map.Access.Accessway">
+      <point x="93.09090909090901" y="182.5" />
+      <point x="2722.4948667711596" y="2012.0" />
+      <point x="2796.7090350812277" y="2012.0" />
+      <point x="2796.7090350812277" y="3419.0" />
+      <point x="4207.532262425804" y="3419.0" />
+      <point x="-23.113636363636033" y="-160.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.Location.Passage" target="za.ac.mandela.WRPV301.Capstone.Map.Location.MapLocation.Lighting">
+      <point x="-71.0" y="-50.0" />
+      <point x="5423.310184503726" y="1427.0" />
+      <point x="5419.210184503726" y="1427.0" />
+      <point x="88.39999999999964" y="137.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Combat.Fight" target="za.ac.mandela.WRPV301.Capstone.Map.Location.Room">
+      <point x="-122.39999999999964" y="138.5" />
+      <point x="11628.309562967435" y="8360.0" />
+      <point x="11283.47454409085" y="8360.0" />
+      <point x="11283.47454409085" y="10107.0" />
+      <point x="11373.030940567938" y="10107.0" />
+      <point x="-21.04166666666606" y="-193.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.EpicWeapon" target="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.EpicWeapon.EpicAdjective">
+      <point x="34.63636363636306" y="-149.5" />
+      <point x="3203.4072624258033" y="8390.0" />
+      <point x="4247.053636884678" y="8390.0" />
+      <point x="4247.053636884678" y="6712.0" />
+      <point x="5677.205422598963" y="6712.0" />
+      <point x="5677.205422598963" y="4524.0" />
+      <point x="5620.705422598963" y="4524.0" />
+      <point x="-62.0" y="149.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.Location.Room" target="za.ac.mandela.WRPV301.Capstone.Game">
+      <point x="-79.95833333333394" y="-193.0" />
+      <point x="11314.11427390127" y="10177.0" />
+      <point x="6488.440839265631" y="10177.0" />
+      <point x="0.0" y="137.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.EpicWeapon.EpicMaterial" target="za.ac.mandela.WRPV301.Capstone.Util.Utils">
+      <point x="-60.5" y="-148.5" />
+      <point x="3830.624549978713" y="3719.0" />
+      <point x="1730.201576727869" y="3719.0" />
+      <point x="1730.201576727869" y="489.0" />
+      <point x="5147.6757017451055" y="489.0" />
+      <point x="-65.03448275862047" y="104.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Action.ActionBuilder" target="za.ac.mandela.WRPV301.Capstone.Action.Action">
+      <point x="-58.25" y="-171.5" />
+      <point x="12847.209147968426" y="589.0" />
+      <point x="13997.779006332079" y="589.0" />
+      <point x="-183.39999999999964" y="149.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.Access.Accessway.Size" target="za.ac.mandela.WRPV301.Capstone.Util.Utils">
+      <point x="0.0" y="-137.5" />
+      <point x="2175.891892443844" y="519.0" />
+      <point x="5164.641218986486" y="519.0" />
+      <point x="-48.06896551724094" y="104.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.Access.Lockable.Lock.Key.Material" target="za.ac.mandela.WRPV301.Capstone.Util.Utils">
+      <point x="0.0" y="-137.5" />
+      <point x="1110.1166666666668" y="389.0" />
+      <point x="5091.123977607174" y="389.0" />
+      <point x="-121.58620689655163" y="104.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.MapData.TraversalGroup" target="za.ac.mandela.WRPV301.Capstone.Map.MapData">
+      <point x="123.33333333333303" y="105.5" />
+      <point x="5502.038755932297" y="4514.0" />
+      <point x="5519.491136884678" y="4514.0" />
+      <point x="5519.491136884678" y="5113.0" />
+      <point x="5089.030423992548" y="5113.0" />
+      <point x="174.31818181818198" y="-589.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Util.InputParser" target="za.ac.mandela.WRPV301.Capstone.Action.Action">
+      <point x="155.20000000000073" y="-115.5" />
+      <point x="14277.558172998746" y="7617.0" />
+      <point x="14381.254006332078" y="7617.0" />
+      <point x="14381.254006332078" y="579.0" />
+      <point x="14312.17900633208" y="579.0" />
+      <point x="131.0" y="149.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Player" target="za.ac.mandela.WRPV301.Capstone.Item.Player.Armour.CrudeArmour">
+      <point x="-28.16666666666606" y="-204.0" />
+      <point x="11442.686506043518" y="4973.0" />
+      <point x="11159.103172710184" y="4973.0" />
+      <point x="83.25" y="50.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.Location.Room" target="za.ac.mandela.WRPV301.Capstone.Item.Room.RoomItem">
+      <point x="122.04166666666606" y="-193.0" />
+      <point x="11516.11427390127" y="10247.0" />
+      <point x="13872.991506332077" y="10247.0" />
+      <point x="13872.991506332077" y="4454.0" />
+      <point x="13863.158172998745" y="4454.0" />
+      <point x="51.79999999999927" y="38.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.Armour.RareArmour" target="za.ac.mandela.WRPV301.Capstone.Item.Player.Armour.RareArmour.RareAdjective">
+      <point x="-141.75" y="-50.0" />
+      <point x="10406.790672710184" y="4314.0" />
+      <point x="9481.290672710184" y="4314.0" />
+      <point x="-62.25" y="126.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.MapData" target="za.ac.mandela.WRPV301.Capstone.Map.Location.Room">
+      <point x="-147.5" y="589.5" />
+      <point x="4767.212242174366" y="6682.0" />
+      <point x="3672.9578833120463" y="6682.0" />
+      <point x="3672.9578833120463" y="10197.0" />
+      <point x="11297.280940567938" y="10197.0" />
+      <point x="-96.79166666666606" y="-193.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Action.Describable" target="za.ac.mandela.WRPV301.Capstone.Action.ActionBuilder">
+      <point x="-23.375" y="-94.0" />
+      <point x="13320.327897968426" y="982.0" />
+      <point x="13010.309147968426" y="982.0" />
+      <point x="104.85000000000036" y="171.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.UI.GameController" target="za.ac.mandela.WRPV301.Capstone.Item.Player.PlayerItem">
+      <point x="31.41176470588198" y="-346.5" />
+      <point x="6563.59215511133" y="12385.0" />
+      <point x="11561.572607234604" y="12385.0" />
+      <point x="0.0" y="93.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.MapData.TraversalGroupManager" target="za.ac.mandela.WRPV301.Capstone.Map.Location.MapLocation">
+      <point x="-51.285714285714675" y="-126.5" />
+      <point x="5229.360184503726" y="4524.0" />
+      <point x="5220.205422598965" y="4524.0" />
+      <point x="5220.205422598965" y="2759.0" />
+      <point x="5589.490619286335" y="2759.0" />
+      <point x="27.130434782608972" y="248.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Player" target="za.ac.mandela.WRPV301.Capstone.Event.PlayerChangeEvent">
+      <point x="-159.6111111111113" y="-204.0" />
+      <point x="11311.242061599072" y="5043.0" />
+      <point x="793.574203387142" y="5043.0" />
+      <point x="73.60000000000002" y="27.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Combat.Enemy" target="za.ac.mandela.WRPV301.Capstone.Action.Actionable">
+      <point x="105.60000000000036" y="-237.5" />
+      <point x="11878.463578492141" y="9552.0" />
+      <point x="14333.85400633208" y="9552.0" />
+      <point x="14333.85400633208" y="1092.0" />
+      <point x="14309.828459444523" y="1092.0" />
+      <point x="73.0" y="50.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.UI.GameController" target="za.ac.mandela.WRPV301.Capstone.Util.Utils">
+      <point x="94.23529411764684" y="-346.5" />
+      <point x="6626.415684523094" y="12425.0" />
+      <point x="12526.92245871303" y="12425.0" />
+      <point x="12526.92245871303" y="319.0" />
+      <point x="5373.88259829683" y="319.0" />
+      <point x="161.17241379310326" y="104.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.CommonWeapon.CommonAdjective" target="za.ac.mandela.WRPV301.Capstone.Util.Utils">
+      <point x="-69.25" y="-126.5" />
+      <point x="7600.650672026001" y="3479.0" />
+      <point x="7457.8142622160385" y="3479.0" />
+      <point x="7457.8142622160385" y="519.0" />
+      <point x="5260.779150020968" y="519.0" />
+      <point x="48.06896551724185" y="104.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.Access.Lockable" target="za.ac.mandela.WRPV301.Capstone.Action.Describable">
+      <point x="96.0" y="-182.5" />
+      <point x="2725.4039576802506" y="1437.0" />
+      <point x="13257.994564635093" y="1437.0" />
+      <point x="-85.70833333333394" y="94.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.Access.Door" target="za.ac.mandela.WRPV301.Capstone.Util.Utils">
+      <point x="0.0" y="-83.0" />
+      <point x="2395.868243394537" y="1082.0" />
+      <point x="2472.1539576802506" y="1082.0" />
+      <point x="2472.1539576802506" y="529.0" />
+      <point x="5170.296391400278" y="529.0" />
+      <point x="-42.41379310344837" y="104.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Combat.Humanoid" target="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.Weapon">
+      <point x="-9.944444444444343" y="-204.5" />
+      <point x="6952.222387964483" y="8853.0" />
+      <point x="6786.8991725989645" y="8853.0" />
+      <point x="6786.8991725989645" y="6822.0" />
+      <point x="8188.89719980378" y="6822.0" />
+      <point x="8188.89719980378" y="4294.0" />
+      <point x="8089.650672026001" y="4294.0" />
+      <point x="68.75" y="182.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Combat.Humanoid.HumanoidAdjective" target="za.ac.mandela.WRPV301.Capstone.Combat.Humanoid">
+      <point x="94.33333333333303" y="159.5" />
+      <point x="2911.1042321227733" y="8903.0" />
+      <point x="6852.777943520037" y="8903.0" />
+      <point x="-109.38888888888869" y="-204.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.Access.Lockable.Lock.Key.Material" target="za.ac.mandela.WRPV301.Capstone.Map.Access.Lockable.Lock.Key">
+      <point x="73.33333333333303" y="137.5" />
+      <point x="1183.4499999999998" y="11130.0" />
+      <point x="1094.0214285714283" y="11130.0" />
+      <point x="20.57142857142844" y="-116.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Combat.Humanoid.HumanoidAdjective" target="za.ac.mandela.WRPV301.Capstone.Util.Utils">
+      <point x="0.0" y="-159.5" />
+      <point x="2816.7708987894403" y="8430.0" />
+      <point x="1431.4270114942528" y="8430.0" />
+      <point x="1431.4270114942528" y="439.0" />
+      <point x="5119.39983967614" y="439.0" />
+      <point x="-93.31034482758605" y="104.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.Location.MapLocation" target="za.ac.mandela.WRPV301.Capstone.Action.ActionBuilder">
+      <point x="101.39999999999964" y="-248.5" />
+      <point x="5663.760184503726" y="2012.0" />
+      <point x="12515.92245871303" y="2012.0" />
+      <point x="12515.92245871303" y="1062.0" />
+      <point x="12823.909147968427" y="1062.0" />
+      <point x="-81.54999999999927" y="171.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.CommonWeapon" target="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.CommonWeapon.CommonMaterial">
+      <point x="-104.0" y="-61.5" />
+      <point x="7347.115939551783" y="4224.0" />
+      <point x="7307.150672026001" y="4224.0" />
+      <point x="-67.75" y="104.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Combat.Fight" target="za.ac.mandela.WRPV301.Capstone.Game">
+      <point x="-120.21428571428623" y="-138.5" />
+      <point x="11630.495277253149" y="7517.0" />
+      <point x="6523.713566538358" y="7517.0" />
+      <point x="35.272727272727025" y="137.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Util.ResourceMapping" target="za.ac.mandela.WRPV301.Capstone.Item.Room.Corpse">
+      <point x="76.25" y="-226.5" />
+      <point x="9067.78973166285" y="11678.0" />
+      <point x="12960.628014268586" y="11678.0" />
+      <point x="12960.628014268586" y="8420.0" />
+      <point x="12955.683569824141" y="8420.0" />
+      <point x="83.11111111111131" y="72.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Combat.Fight" target="za.ac.mandela.WRPV301.Capstone.Combat.Combatant">
+      <point x="98.35714285714312" y="-138.5" />
+      <point x="11849.066705824578" y="7557.0" />
+      <point x="12748.772458713029" y="7557.0" />
+      <point x="12748.772458713029" y="5113.0" />
+      <point x="12738.85995871303" y="5113.0" />
+      <point x="42.9375" y="93.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Combat.Humanoid" target="za.ac.mandela.WRPV301.Capstone.Combat.Humanoid.HumanoidAdjective">
+      <point x="-149.16666666666697" y="-204.5" />
+      <point x="6813.00016574226" y="8923.0" />
+      <point x="2722.437565456107" y="8923.0" />
+      <point x="-94.33333333333348" y="159.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Room.RoomItem" target="za.ac.mandela.WRPV301.Capstone.Map.Location.Room">
+      <point x="37.0" y="38.5" />
+      <point x="13848.358172998745" y="4464.0" />
+      <point x="13864.574839665413" y="4464.0" />
+      <point x="13864.574839665413" y="10237.0" />
+      <point x="11507.697607234604" y="10237.0" />
+      <point x="113.625" y="-193.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Player" target="za.ac.mandela.WRPV301.Capstone.Combat.Combatant">
+      <point x="84.5" y="-204.0" />
+      <point x="11555.353172710184" y="5143.0" />
+      <point x="12624.35995871303" y="5143.0" />
+      <point x="-71.5625" y="93.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.PlayerItem" target="za.ac.mandela.WRPV301.Capstone.Action.Actionable">
+      <point x="77.07142857142935" y="-93.5" />
+      <point x="11638.644035806034" y="10763.0" />
+      <point x="14355.85400633208" y="10763.0" />
+      <point x="14355.85400633208" y="1072.0" />
+      <point x="14339.028459444524" y="1072.0" />
+      <point x="102.20000000000073" y="50.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Combat.Enemy" target="za.ac.mandela.WRPV301.Capstone.Combat.Insect">
+      <point x="52.79999999999927" y="-237.5" />
+      <point x="11825.663578492138" y="9492.0" />
+      <point x="12477.42245871303" y="9492.0" />
+      <point x="12477.42245871303" y="8893.0" />
+      <point x="12399.755792046362" y="8893.0" />
+      <point x="33.33333333333394" y="160.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.Location.Room" target="za.ac.mandela.WRPV301.Capstone.Combat.Enemy">
+      <point x="-4.20833333333394" y="-193.0" />
+      <point x="11389.86427390127" y="10067.0" />
+      <point x="11681.196911825475" y="10067.0" />
+      <point x="-91.66666666666606" y="237.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Util.ResourceMapping" target="za.ac.mandela.WRPV301.Capstone.Item.Player.HealthPotion">
+      <point x="167.75" y="-226.5" />
+      <point x="9159.28973166285" y="11718.0" />
+      <point x="13778.447458713032" y="11718.0" />
+      <point x="13778.447458713032" y="5183.0" />
+      <point x="13770.661744427318" y="5183.0" />
+      <point x="96.42857142857065" y="204.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Combat.Ghost" target="za.ac.mandela.WRPV301.Capstone.Combat.Enemy">
+      <point x="106.63636363636397" y="171.5" />
+      <point x="8242.107375315789" y="8893.0" />
+      <point x="8245.979345012758" y="8893.0" />
+      <point x="8245.979345012758" y="9422.0" />
+      <point x="11728.863578492139" y="9422.0" />
+      <point x="-44.0" y="-237.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Util.ResourceMapping" target="za.ac.mandela.WRPV301.Capstone.Item.Room.HealthChest">
+      <point x="137.25" y="-226.5" />
+      <point x="9128.78973166285" y="11708.0" />
+      <point x="13710.447458713032" y="11708.0" />
+      <point x="13710.447458713032" y="8420.0" />
+      <point x="13652.447458713032" y="8420.0" />
+      <point x="75.0" y="116.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.UI.CanvasManager" target="za.ac.mandela.WRPV301.Capstone.Event.LocationChangeEvent">
+      <point x="0.0" y="-303.5" />
+      <point x="1860.657876175549" y="11598.0" />
+      <point x="1912.8145674699672" y="11598.0" />
+      <point x="1912.8145674699672" y="9532.0" />
+      <point x="2016.0473260906565" y="9532.0" />
+      <point x="2016.0473260906565" y="6532.0" />
+      <point x="2762.9080789603195" y="6532.0" />
+      <point x="2762.9080789603195" y="3759.0" />
+      <point x="3002.9438835660776" y="3759.0" />
+      <point x="3002.9438835660776" y="2589.0" />
+      <point x="4280.1101845037265" y="2589.0" />
+      <point x="4280.1101845037265" y="2042.0" />
+      <point x="4260.1101845037265" y="2042.0" />
+      <point x="-102.5" y="50.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.CrudeWeapon.CrudeAdjective" target="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.CrudeWeapon">
+      <point x="64.5" y="126.5" />
+      <point x="10301.040672710184" y="4374.0" />
+      <point x="8660.53550029639" y="4374.0" />
+      <point x="178.64999999999964" y="-61.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Util.ResourceMapping" target="za.ac.mandela.WRPV301.Capstone.Combat.Insect">
+      <point x="45.75" y="-226.5" />
+      <point x="9037.28973166285" y="11668.0" />
+      <point x="12507.839125379698" y="11668.0" />
+      <point x="12507.839125379698" y="8863.0" />
+      <point x="12499.755792046362" y="8863.0" />
+      <point x="133.33333333333394" y="160.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.UI.CanvasManager" target="za.ac.mandela.WRPV301.Capstone.Game">
+      <point x="80.80000000000018" y="-303.5" />
+      <point x="1941.4578761755492" y="11638.0" />
+      <point x="2965.315272477398" y="11638.0" />
+      <point x="2965.315272477398" y="9532.0" />
+      <point x="6271.266139686393" y="9532.0" />
+      <point x="6271.266139686393" y="7577.0" />
+      <point x="6400.259021083813" y="7577.0" />
+      <point x="-88.18181818181802" y="137.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.Access.Gate" target="za.ac.mandela.WRPV301.Capstone.Map.Access.Lockable.Material">
+      <point x="99.85714285714312" y="-61.0" />
+      <point x="2769.566177938371" y="2869.0" />
+      <point x="2835.2772168994097" y="2869.0" />
+      <point x="2835.2772168994097" y="1042.0" />
+      <point x="2711.9039576802506" y="1042.0" />
+      <point x="88.0" y="126.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.CommonWeapon.CommonMaterial" target="za.ac.mandela.WRPV301.Capstone.Util.Utils">
+      <point x="-67.75" y="-104.5" />
+      <point x="7307.150672026001" y="3479.0" />
+      <point x="7164.3142622160385" y="3479.0" />
+      <point x="7164.3142622160385" y="529.0" />
+      <point x="5255.123977607174" y="529.0" />
+      <point x="42.41379310344837" y="104.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Launcher" target="za.ac.mandela.WRPV301.Capstone.Game">
+      <point x="80.40000000000009" y="-148.5" />
+      <point x="3760.8236058107314" y="10763.0" />
+      <point x="6367.620306353061" y="10763.0" />
+      <point x="6367.620306353061" y="7597.0" />
+      <point x="6435.5317483565395" y="7597.0" />
+      <point x="-52.90909090909099" y="137.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.Access.Lockable.Lock.Key.Size" target="za.ac.mandela.WRPV301.Capstone.Map.Access.Lockable.Lock.Key">
+      <point x="65.66666666666697" y="126.5" />
+      <point x="947.2833333333338" y="11110.0" />
+      <point x="1052.8785714285714" y="11110.0" />
+      <point x="-20.57142857142844" y="-116.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Combat.Enemy" target="za.ac.mandela.WRPV301.Capstone.Util.Utils">
+      <point x="17.600000000000364" y="-237.5" />
+      <point x="11790.463578492141" y="9452.0" />
+      <point x="11865.782626111188" y="9452.0" />
+      <point x="11865.782626111188" y="8913.0" />
+      <point x="12077.727897968425" y="8913.0" />
+      <point x="12077.727897968425" y="7517.0" />
+      <point x="12347.525311761528" y="7517.0" />
+      <point x="12347.525311761528" y="339.0" />
+      <point x="5362.572253469243" y="339.0" />
+      <point x="149.8620689655172" y="104.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.Location.MapLocation" target="za.ac.mandela.WRPV301.Capstone.Event.LocationChangeEvent">
+      <point x="-148.19999999999982" y="-248.5" />
+      <point x="5414.160184503726" y="2042.0" />
+      <point x="4383.1101845037265" y="2042.0" />
+      <point x="20.5" y="50.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.EpicWeapon.Name" target="za.ac.mandela.WRPV301.Capstone.Util.Utils">
+      <point x="0.0" y="-346.5" />
+      <point x="2969.795004524168" y="7617.0" />
+      <point x="2027.0473260906565" y="7617.0" />
+      <point x="2027.0473260906565" y="6502.0" />
+      <point x="1472.9097701149421" y="6502.0" />
+      <point x="1472.9097701149421" y="459.0" />
+      <point x="5130.710184503727" y="459.0" />
+      <point x="-82.0" y="104.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Util.ResourceMapping" target="za.ac.mandela.WRPV301.Capstone.Map.Access.Lockable.Lock.Key">
+      <point x="-167.75" y="-226.5" />
+      <point x="8823.78973166285" y="11568.0" />
+      <point x="1073.4499999999998" y="11568.0" />
+      <point x="0.0" y="116.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Combat.Humanoid" target="za.ac.mandela.WRPV301.Capstone.Item.Player.Armour.CommonArmour">
+      <point x="49.722222222222626" y="-204.5" />
+      <point x="7011.889054631149" y="8823.0" />
+      <point x="7575.471011679425" y="8823.0" />
+      <point x="7575.471011679425" y="6892.0" />
+      <point x="10105.040672710184" y="6892.0" />
+      <point x="0.0" y="50.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.Access.Lockable.Lock.Key.Size" target="za.ac.mandela.WRPV301.Capstone.Util.Utils">
+      <point x="0.0" y="-126.5" />
+      <point x="881.6166666666668" y="379.0" />
+      <point x="5085.468805193381" y="379.0" />
+      <point x="-127.24137931034511" y="104.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.RareWeapon" target="za.ac.mandela.WRPV301.Capstone.Util.Utils">
+      <point x="-151.375" y="-61.5" />
+      <point x="6755.992109502522" y="4524.0" />
+      <point x="6621.7393419767395" y="4524.0" />
+      <point x="6621.7393419767395" y="569.0" />
+      <point x="5232.503287952002" y="569.0" />
+      <point x="19.79310344827627" y="104.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Combat.Humanoid" target="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.RareWeapon">
+      <point x="-69.61111111111131" y="-204.5" />
+      <point x="6892.555721297815" y="8883.0" />
+      <point x="5938.460457868212" y="8883.0" />
+      <point x="5938.460457868212" y="6752.0" />
+      <point x="6907.367109502522" y="6752.0" />
+      <point x="0.0" y="61.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.CommonWeapon" target="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.CommonWeapon.CommonAdjective">
+      <point x="20.800000000000182" y="-61.5" />
+      <point x="7471.915939551784" y="4254.0" />
+      <point x="7600.650672026001" y="4254.0" />
+      <point x="-69.25" y="126.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.Location.Room" target="za.ac.mandela.WRPV301.Capstone.Map.Location.MapLocation.Lighting">
+      <point x="-130.45833333333394" y="-193.0" />
+      <point x="11263.61427390127" y="10237.0" />
+      <point x="2581.249549978713" y="10237.0" />
+      <point x="2581.249549978713" y="9502.0" />
+      <point x="2455.8749122975532" y="9502.0" />
+      <point x="2455.8749122975532" y="6562.0" />
+      <point x="3027.8749122975532" y="6562.0" />
+      <point x="3027.8749122975532" y="3789.0" />
+      <point x="3233.8548031063065" y="3789.0" />
+      <point x="3233.8548031063065" y="2619.0" />
+      <point x="4507.1101845037265" y="2619.0" />
+      <point x="4507.1101845037265" y="1427.0" />
+      <point x="5242.410184503727" y="1427.0" />
+      <point x="-88.39999999999964" y="137.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Combat.Enemy" target="za.ac.mandela.WRPV301.Capstone.Item.Room.Corpse">
+      <point x="88.0" y="-237.5" />
+      <point x="11860.863578492139" y="9532.0" />
+      <point x="12938.628014268586" y="9532.0" />
+      <point x="12938.628014268586" y="8410.0" />
+      <point x="12914.128014268586" y="8410.0" />
+      <point x="41.55555555555475" y="72.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Player" target="za.ac.mandela.WRPV301.Capstone.Event.ConsoleEvent">
+      <point x="-46.94444444444525" y="-204.0" />
+      <point x="11423.908728265738" y="4983.0" />
+      <point x="10776.040672710184" y="4983.0" />
+      <point x="10776.040672710184" y="1012.0" />
+      <point x="10138.941455029179" y="1012.0" />
+      <point x="57.75" y="94.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.UI.GameController" target="za.ac.mandela.WRPV301.Capstone.Event.PlayerChangeEvent">
+      <point x="-94.23529411764684" y="-346.5" />
+      <point x="6437.9450962878" y="12425.0" />
+      <point x="526.6166666666668" y="12425.0" />
+      <point x="526.6166666666668" y="5193.0" />
+      <point x="646.3742033871413" y="5193.0" />
+      <point x="-73.60000000000036" y="27.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.Equippable" target="za.ac.mandela.WRPV301.Capstone.Item.Player.PlayerItem">
+      <point x="94.0" y="104.5" />
+      <point x="13264.572458713032" y="3809.0" />
+      <point x="13309.572458713032" y="3809.0" />
+      <point x="13309.572458713032" y="10713.0" />
+      <point x="11591.215464377461" y="10713.0" />
+      <point x="29.642857142856883" y="-93.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Event.GameLossEvent" target="za.ac.mandela.WRPV301.Capstone.Util.Utils">
+      <point x="0.0" y="-27.0" />
+      <point x="12081.467745158807" y="349.0" />
+      <point x="5356.9170810554515" y="349.0" />
+      <point x="144.20689655172464" y="104.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Util.ResourceMapping" target="za.ac.mandela.WRPV301.Capstone.Combat.Ghost">
+      <point x="-45.75" y="-226.5" />
+      <point x="8945.78973166285" y="11528.0" />
+      <point x="8135.471011679425" y="11528.0" />
+      <point x="0.0" y="171.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.UI.CanvasManager" target="za.ac.mandela.WRPV301.Capstone.Map.Location.Direction">
+      <point x="40.399999999999636" y="-303.5" />
+      <point x="1901.0578761755487" y="11618.0" />
+      <point x="2527.2708987894403" y="11618.0" />
+      <point x="2527.2708987894403" y="9552.0" />
+      <point x="2554.7708987894403" y="9552.0" />
+      <point x="2554.7708987894403" y="6592.0" />
+      <point x="3126.7708987894403" y="6592.0" />
+      <point x="3126.7708987894403" y="3819.0" />
+      <point x="3387.833454295579" y="3819.0" />
+      <point x="-53.0" y="215.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.Access.Door" target="za.ac.mandela.WRPV301.Capstone.Map.Access.Lockable">
+      <point x="97.91666666666606" y="83.0" />
+      <point x="2493.784910061203" y="1487.0" />
+      <point x="2554.7372910135846" y="1487.0" />
+      <point x="-74.66666666666606" y="-182.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.Access.Accessway" target="za.ac.mandela.WRPV301.Capstone.Action.Actionable">
+      <point x="161.79545454545496" y="-160.5" />
+      <point x="4392.441353334895" y="3819.0" />
+      <point x="14218.428459444523" y="3819.0" />
+      <point x="14218.428459444523" y="1062.0" />
+      <point x="14207.628459444522" y="1062.0" />
+      <point x="-29.200000000000728" y="50.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.Access.Opening" target="za.ac.mandela.WRPV301.Capstone.Map.Access.Opening.Type">
+      <point x="-70.125" y="-83.5" />
+      <point x="1805.2432433945369" y="2869.0" />
+      <point x="1774.368243394536" y="2869.0" />
+      <point x="-67.33333333333326" y="181.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.Armour.CrudeArmour.CrudeMaterial" target="za.ac.mandela.WRPV301.Capstone.Util.Utils">
+      <point x="63.0" y="-126.5" />
+      <point x="11648.047617154627" y="2849.0" />
+      <point x="11710.905375775317" y="2849.0" />
+      <point x="11710.905375775317" y="389.0" />
+      <point x="5334.296391400278" y="389.0" />
+      <point x="121.58620689655163" y="104.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Player" target="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.CrudeWeapon">
+      <point x="-65.72222222222263" y="-204.0" />
+      <point x="11405.130950487961" y="4993.0" />
+      <point x="8581.13550029639" y="4993.0" />
+      <point x="99.25" y="61.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Room.RoomItem" target="za.ac.mandela.WRPV301.Capstone.Action.Describable">
+      <point x="0.0" y="-38.5" />
+      <point x="13811.358172998745" y="1497.0" />
+      <point x="13367.077897968426" y="1497.0" />
+      <point x="23.375" y="94.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.HealthPotion" target="za.ac.mandela.WRPV301.Capstone.Action.Actionable">
+      <point x="56.25" y="-204.5" />
+      <point x="13730.483172998745" y="4524.0" />
+      <point x="14229.428459444523" y="4524.0" />
+      <point x="14229.428459444523" y="1052.0" />
+      <point x="14222.228459444523" y="1052.0" />
+      <point x="-14.600000000000364" y="50.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.CrudeWeapon.CrudeMaterial" target="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.WeaponMaterial">
+      <point x="63.0" y="-137.5" />
+      <point x="8544.88550029639" y="3579.0" />
+      <point x="8584.38550029639" y="3579.0" />
+      <point x="50.0" y="15.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Util.Utils.XYWH" target="za.ac.mandela.WRPV301.Capstone.Util.Utils.XY">
+      <point x="-90.33333333333331" y="-149.0" />
+      <point x="147.66666666666697" y="11190.0" />
+      <point x="176.33333333333303" y="11190.0" />
+      <point x="66.33333333333331" y="83.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.UI.CanvasManager" target="za.ac.mandela.WRPV301.Capstone.Action.Describable">
+      <point x="141.39999999999964" y="-303.5" />
+      <point x="2002.0578761755487" y="11688.0" />
+      <point x="13231.911231301761" y="11688.0" />
+      <point x="13231.911231301761" y="10753.0" />
+      <point x="13917.858172998745" y="10753.0" />
+      <point x="13917.858172998745" y="1467.0" />
+      <point x="13413.827897968426" y="1467.0" />
+      <point x="70.125" y="94.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Combat.Enemy" target="za.ac.mandela.WRPV301.Capstone.Combat.Ghost">
+      <point x="-35.20000000000073" y="-237.5" />
+      <point x="11737.663578492138" y="9412.0" />
+      <point x="8254.779345012757" y="9412.0" />
+      <point x="8254.779345012757" y="8883.0" />
+      <point x="8277.652829861243" y="8883.0" />
+      <point x="142.18181818181802" y="171.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Combat.Ghost" target="za.ac.mandela.WRPV301.Capstone.Combat.Ghost.GhostAdjective">
+      <point x="-167.57142857142844" y="-171.5" />
+      <point x="7967.899583107996" y="8420.0" />
+      <point x="7682.346011679425" y="8420.0" />
+      <point x="-32.125" y="159.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.Equippable" target="za.ac.mandela.WRPV301.Capstone.Action.Actionable">
+      <point x="78.33333333333394" y="-104.5" />
+      <point x="13248.905792046364" y="2869.0" />
+      <point x="14207.428459444523" y="2869.0" />
+      <point x="14207.428459444523" y="1072.0" />
+      <point x="14193.028459444524" y="1072.0" />
+      <point x="-43.79999999999927" y="50.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Event.GenerationEvent" target="za.ac.mandela.WRPV301.Capstone.Util.Utils">
+      <point x="0.0" y="-50.0" />
+      <point x="1644.4688181071797" y="469.0" />
+      <point x="5136.36535691752" y="469.0" />
+      <point x="-76.34482758620652" y="104.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Combat.Fight" target="za.ac.mandela.WRPV301.Capstone.Player">
+      <point x="-32.785714285713766" y="-138.5" />
+      <point x="11717.923848681721" y="7477.0" />
+      <point x="11307.609404536568" y="7477.0" />
+      <point x="11307.609404536568" y="7072.0" />
+      <point x="11593.762263619274" y="7072.0" />
+      <point x="122.90909090909008" y="204.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.Armour.CommonArmour" target="za.ac.mandela.WRPV301.Capstone.Item.Player.Armour.Armour">
+      <point x="110.0" y="-50.0" />
+      <point x="10215.040672710184" y="4414.0" />
+      <point x="11150.589283821293" y="4414.0" />
+      <point x="-137.95833333333394" y="138.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.Access.Accessway" target="za.ac.mandela.WRPV301.Capstone.Map.Access.Opening">
+      <point x="-161.7954545454545" y="-160.5" />
+      <point x="4068.8504442439857" y="3509.0" />
+      <point x="1813.0349100612038" y="3509.0" />
+      <point x="-62.33333333333326" y="83.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Combat.Fight" target="za.ac.mandela.WRPV301.Capstone.Event.ConsoleEvent">
+      <point x="-76.5" y="-138.5" />
+      <point x="11674.209562967435" y="7497.0" />
+      <point x="11211.77677390127" y="7497.0" />
+      <point x="11211.77677390127" y="6922.0" />
+      <point x="10732.040672710184" y="6922.0" />
+      <point x="10732.040672710184" y="1022.0" />
+      <point x="10122.441455029179" y="1022.0" />
+      <point x="41.25" y="94.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.Access.Lockable" target="za.ac.mandela.WRPV301.Capstone.Game">
+      <point x="-23.272727272727934" y="182.5" />
+      <point x="2606.1312304075227" y="2032.0" />
+      <point x="2477.7083987894403" y="2032.0" />
+      <point x="2477.7083987894403" y="3819.0" />
+      <point x="2132.0473260906565" y="3819.0" />
+      <point x="2132.0473260906565" y="6462.0" />
+      <point x="6433.878339265631" y="6462.0" />
+      <point x="-54.5625" y="-137.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.Access.Opening" target="za.ac.mandela.WRPV301.Capstone.Map.Access.Accessway.Size">
+      <point x="70.125" y="-83.5" />
+      <point x="1945.4932433945369" y="2869.0" />
+      <point x="1965.9307433945369" y="2869.0" />
+      <point x="1965.9307433945369" y="1922.0" />
+      <point x="2063.741502613696" y="1922.0" />
+      <point x="2063.741502613696" y="1092.0" />
+      <point x="2091.4633210152724" y="1092.0" />
+      <point x="-84.42857142857156" y="137.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.Armour.RareArmour" target="za.ac.mandela.WRPV301.Capstone.Item.Player.Armour.ArmourMaterial">
+      <point x="60.75" y="-50.0" />
+      <point x="10609.290672710184" y="4404.0" />
+      <point x="10754.040672710184" y="4404.0" />
+      <point x="10754.040672710184" y="3709.0" />
+      <point x="11079.203867154627" y="3709.0" />
+      <point x="-10.0" y="15.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.Armour.CrudeArmour.CrudeAdjective" target="za.ac.mandela.WRPV301.Capstone.Item.Player.Armour.ArmourAdjective">
+      <point x="-64.5" y="-126.5" />
+      <point x="10851.040672710184" y="3649.0" />
+      <point x="10556.415672710184" y="3649.0" />
+      <point x="31.5" y="15.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.EpicWeapon" target="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.EpicWeapon.Name">
+      <point x="-138.5454545454545" y="-149.5" />
+      <point x="3030.2254442439853" y="8410.0" />
+      <point x="2900.1283378575017" y="8410.0" />
+      <point x="-69.66666666666652" y="346.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.Location.MapLocation" target="za.ac.mandela.WRPV301.Capstone.Action.Action">
+      <point x="85.80000000000018" y="-248.5" />
+      <point x="5648.160184503726" y="2002.0" />
+      <point x="9341.145225950251" y="2002.0" />
+      <point x="9341.145225950251" y="1427.0" />
+      <point x="12504.92245871303" y="1427.0" />
+      <point x="12504.92245871303" y="1042.0" />
+      <point x="12778.459147968426" y="1042.0" />
+      <point x="12778.459147968426" y="579.0" />
+      <point x="13945.379006332081" y="579.0" />
+      <point x="-235.79999999999927" y="149.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.CrudeWeapon.CrudeAdjective" target="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.WeaponAdjective">
+      <point x="-64.5" y="-126.5" />
+      <point x="10172.040672710184" y="3549.0" />
+      <point x="8798.540672710184" y="3549.0" />
+      <point x="73.5" y="15.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.Location.Passage" target="za.ac.mandela.WRPV301.Capstone.Map.Location.MapLocation.Material">
+      <point x="71.0" y="-50.0" />
+      <point x="5565.310184503726" y="1427.0" />
+      <point x="5679.310184503726" y="1427.0" />
+      <point x="-88.0" y="137.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.UI.CanvasManager" target="za.ac.mandela.WRPV301.Capstone.Map.Access.Accessway">
+      <point x="60.600000000000364" y="-303.5" />
+      <point x="1921.2578761755494" y="11628.0" />
+      <point x="2570.249549978713" y="11628.0" />
+      <point x="2570.249549978713" y="9512.0" />
+      <point x="3391.8958987894403" y="9512.0" />
+      <point x="3391.8958987894403" y="6642.0" />
+      <point x="4144.8131364396395" y="6642.0" />
+      <point x="4144.8131364396395" y="4524.0" />
+      <point x="4089.3958987894403" y="4524.0" />
+      <point x="-141.25" y="160.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.Access.Accessway" target="za.ac.mandela.WRPV301.Capstone.Util.Utils">
+      <point x="7.704545454545041" y="-160.5" />
+      <point x="4238.350444243985" y="3399.0" />
+      <point x="2911.6938835660776" y="3399.0" />
+      <point x="2911.6938835660776" y="2839.0" />
+      <point x="2846.2772168994097" y="2839.0" />
+      <point x="2846.2772168994097" y="559.0" />
+      <point x="5187.261908641658" y="559.0" />
+      <point x="-25.44827586206884" y="104.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Event.AccesswayChangeEvent" target="za.ac.mandela.WRPV301.Capstone.Util.Utils">
+      <point x="0.0" y="-50.0" />
+      <point x="2978.7772168994097" y="569.0" />
+      <point x="5192.9170810554515" y="569.0" />
+      <point x="-19.79310344827536" y="104.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.Weapon" target="za.ac.mandela.WRPV301.Capstone.Game">
+      <point x="-68.75" y="182.5" />
+      <point x="7952.150672026001" y="4314.0" />
+      <point x="7765.590939551783" y="4314.0" />
+      <point x="7765.590939551783" y="6772.0" />
+      <point x="6494.503339265631" y="6772.0" />
+      <point x="6.0625" y="-137.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Combat.Insect" target="za.ac.mandela.WRPV301.Capstone.Map.Location.Room">
+      <point x="100.0" y="160.5" />
+      <point x="12466.42245871303" y="8873.0" />
+      <point x="12496.839125379698" y="8873.0" />
+      <point x="12496.839125379698" y="10157.0" />
+      <point x="11448.780940567938" y="10157.0" />
+      <point x="54.70833333333394" y="-193.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Util.Utils.XYWH" target="za.ac.mandela.WRPV301.Capstone.Util.Utils">
+      <point x="0.0" y="-149.0" />
+      <point x="238.0" y="339.0" />
+      <point x="5062.848115538209" y="339.0" />
+      <point x="-149.8620689655172" y="104.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.Access.Accessway" target="za.ac.mandela.WRPV301.Capstone.Map.Location.Direction">
+      <point x="53.93181818181802" y="-160.5" />
+      <point x="4284.577716971258" y="3369.0" />
+      <point x="3493.833454295579" y="3369.0" />
+      <point x="53.0" y="215.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Combat.Enemy" target="za.ac.mandela.WRPV301.Capstone.Map.Location.Room">
+      <point x="-18.33333333333394" y="237.5" />
+      <point x="11754.530245158807" y="10087.0" />
+      <point x="11406.697607234604" y="10087.0" />
+      <point x="12.625" y="-193.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.Weapon" target="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.WeaponAdjective">
+      <point x="57.75" y="-182.5" />
+      <point x="8078.650672026001" y="3619.0" />
+      <point x="8714.540672710184" y="3619.0" />
+      <point x="-10.5" y="15.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Combat.Insect.InsectSize" target="za.ac.mandela.WRPV301.Capstone.Combat.Insect">
+      <point x="73.60000000000036" y="93.5" />
+      <point x="12336.29745871303" y="8370.0" />
+      <point x="12347.67245871303" y="8370.0" />
+      <point x="-18.75" y="-160.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.Access.Accessway.Size" target="za.ac.mandela.WRPV301.Capstone.Map.Access.Accessway">
+      <point x="-56.285714285714675" y="137.5" />
+      <point x="2119.6061781581293" y="1072.0" />
+      <point x="2109.868243394537" y="1072.0" />
+      <point x="2109.868243394537" y="1932.0" />
+      <point x="1979.3682433945369" y="1932.0" />
+      <point x="1979.3682433945369" y="3479.0" />
+      <point x="4115.077716971258" y="3479.0" />
+      <point x="-115.56818181818198" y="-160.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Game" target="za.ac.mandela.WRPV301.Capstone.Event.PlayerChangeEvent">
+      <point x="-78.8125" y="-137.5" />
+      <point x="6409.628339265631" y="6482.0" />
+      <point x="769.1994316368537" y="6482.0" />
+      <point x="769.1994316368537" y="5203.0" />
+      <point x="756.7742033871418" y="5203.0" />
+      <point x="36.80000000000018" y="27.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Player" target="za.ac.mandela.WRPV301.Capstone.Action.Actionable">
+      <point x="159.6111111111113" y="-204.0" />
+      <point x="11630.464283821295" y="5203.0" />
+      <point x="14240.428459444523" y="5203.0" />
+      <point x="14240.428459444523" y="1092.0" />
+      <point x="14236.828459444523" y="1092.0" />
+      <point x="0.0" y="50.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Util.InputParser" target="za.ac.mandela.WRPV301.Capstone.Game">
+      <point x="-155.20000000000073" y="-115.5" />
+      <point x="13967.158172998745" y="7417.0" />
+      <point x="6576.6226574474495" y="7417.0" />
+      <point x="88.18181818181802" y="137.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.CrudeWeapon" target="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.Weapon.WeaponType">
+      <point x="-99.25" y="-61.5" />
+      <point x="8382.63550029639" y="4244.0" />
+      <point x="8223.900672026" y="4244.0" />
+      <point x="8223.900672026" y="3479.0" />
+      <point x="7922.0372678370595" y="3479.0" />
+      <point x="105.42857142857156" y="170.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Room.HealthChest" target="za.ac.mandela.WRPV301.Capstone.Action.ActionBuilder">
+      <point x="-45.0" y="-116.5" />
+      <point x="13532.447458713032" y="7427.0" />
+      <point x="12987.572458713032" y="7427.0" />
+      <point x="12987.572458713032" y="1082.0" />
+      <point x="12940.409147968427" y="1082.0" />
+      <point x="34.95000000000073" y="171.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Player" target="za.ac.mandela.WRPV301.Capstone.Event.GameLossEvent">
+      <point x="46.94444444444525" y="-204.0" />
+      <point x="11517.797617154629" y="5123.0" />
+      <point x="12043.467745158807" y="5123.0" />
+      <point x="-38.0" y="27.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.MapData" target="za.ac.mandela.WRPV301.Capstone.Map.MapData.SerializableMapData">
+      <point x="-93.86363636363603" y="-589.5" />
+      <point x="4820.84860581073" y="5123.0" />
+      <point x="4594.14589878944" y="5123.0" />
+      <point x="-162.0" y="83.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.Access.Lockable" target="za.ac.mandela.WRPV301.Capstone.Map.Access.Lockable.Material">
+      <point x="-32.0" y="-182.5" />
+      <point x="2597.4039576802506" y="1507.0" />
+      <point x="2612.9039576802506" y="1507.0" />
+      <point x="2612.9039576802506" y="1092.0" />
+      <point x="2579.9039576802506" y="1092.0" />
+      <point x="-44.0" y="126.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.Weapon" target="za.ac.mandela.WRPV301.Capstone.Item.Player.Equippable">
+      <point x="173.25" y="-182.5" />
+      <point x="8194.150672026" y="3789.0" />
+      <point x="13123.572458713032" y="3789.0" />
+      <point x="-47.0" y="104.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.HealthPotion" target="za.ac.mandela.WRPV301.Capstone.Item.Player.PlayerItem">
+      <point x="64.28571428571377" y="204.5" />
+      <point x="13738.51888728446" y="5173.0" />
+      <point x="13756.447458713032" y="5173.0" />
+      <point x="13756.447458713032" y="10217.0" />
+      <point x="13443.447458713032" y="10217.0" />
+      <point x="13443.447458713032" y="10723.0" />
+      <point x="11603.072607234604" y="10723.0" />
+      <point x="41.5" y="-93.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Combat.Ghost" target="za.ac.mandela.WRPV301.Capstone.Item.Room.Corpse">
+      <point x="111.71428571428623" y="-171.5" />
+      <point x="8247.185297393711" y="8380.0" />
+      <point x="12789.461347601919" y="8380.0" />
+      <point x="-83.11111111111131" y="72.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.UI.GenerateDialogController" target="za.ac.mandela.WRPV301.Capstone.Event.GenerationEvent">
+      <point x="66.75" y="-60.5" />
+      <point x="1326.5218390804594" y="4524.0" />
+      <point x="1585.1354847738467" y="4524.0" />
+      <point x="-59.33333333333326" y="50.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Combat.Enemy" target="za.ac.mandela.WRPV301.Capstone.Action.Describable">
+      <point x="96.79999999999927" y="-237.5" />
+      <point x="11869.663578492138" y="9542.0" />
+      <point x="13298.572458713032" y="9542.0" />
+      <point x="13298.572458713032" y="1497.0" />
+      <point x="13351.494564635093" y="1497.0" />
+      <point x="7.79166666666606" y="94.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.Location.MapLocation" target="za.ac.mandela.WRPV301.Capstone.Event.AccesswayChangeEvent">
+      <point x="-101.39999999999964" y="-248.5" />
+      <point x="5460.960184503727" y="2012.0" />
+      <point x="4496.1101845037265" y="2012.0" />
+      <point x="4496.1101845037265" y="1427.0" />
+      <point x="3080.443883566076" y="1427.0" />
+      <point x="101.66666666666606" y="50.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Action.Describable" target="za.ac.mandela.WRPV301.Capstone.Action.Actionable">
+      <point x="23.375" y="-94.0" />
+      <point x="13367.077897968426" y="1082.0" />
+      <point x="14134.628459444522" y="1082.0" />
+      <point x="-102.20000000000073" y="50.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.Location.Room" target="za.ac.mandela.WRPV301.Capstone.Event.LocationChangeEvent">
+      <point x="-138.875" y="-193.0" />
+      <point x="11255.197607234604" y="10247.0" />
+      <point x="2315.8749122975532" y="10247.0" />
+      <point x="2315.8749122975532" y="6542.0" />
+      <point x="2898.8749122975532" y="6542.0" />
+      <point x="2898.8749122975532" y="3769.0" />
+      <point x="3134.8548031063065" y="3769.0" />
+      <point x="3134.8548031063065" y="2599.0" />
+      <point x="4291.1101845037265" y="2599.0" />
+      <point x="4291.1101845037265" y="2042.0" />
+      <point x="4301.1101845037265" y="2042.0" />
+      <point x="-61.5" y="50.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.MapData" target="za.ac.mandela.WRPV301.Capstone.Map.Access.Accessway">
+      <point x="-147.5" y="-589.5" />
+      <point x="4767.212242174366" y="5143.0" />
+      <point x="4236.14589878944" y="5143.0" />
+      <point x="4236.14589878944" y="4524.0" />
+      <point x="4258.89589878944" y="4524.0" />
+      <point x="28.25" y="160.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.Armour.CrudeArmour" target="za.ac.mandela.WRPV301.Capstone.Item.Player.Armour.ArmourMaterial">
+      <point x="-20.8125" y="-50.0" />
+      <point x="11055.040672710184" y="3719.0" />
+      <point x="11099.203867154627" y="3719.0" />
+      <point x="10.0" y="15.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.Access.Opening.Type" target="za.ac.mandela.WRPV301.Capstone.Map.Access.Opening">
+      <point x="67.33333333333303" y="181.5" />
+      <point x="1909.034910061202" y="2869.0" />
+      <point x="1898.7432433945369" y="2869.0" />
+      <point x="23.375" y="-83.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Combat.Insect" target="za.ac.mandela.WRPV301.Capstone.Event.ConsoleEvent">
+      <point x="-131.25" y="-160.5" />
+      <point x="12235.17245871303" y="8350.0" />
+      <point x="9170.770118822282" y="8350.0" />
+      <point x="9170.770118822282" y="7537.0" />
+      <point x="8594.113868822282" y="7537.0" />
+      <point x="8594.113868822282" y="6922.0" />
+      <point x="10721.040672710184" y="6922.0" />
+      <point x="10721.040672710184" y="1032.0" />
+      <point x="10105.941455029179" y="1032.0" />
+      <point x="24.75" y="94.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Room.HealthChest" target="za.ac.mandela.WRPV301.Capstone.Game">
+      <point x="-90.0" y="-116.5" />
+      <point x="13487.447458713032" y="7437.0" />
+      <point x="6558.9862938110855" y="7437.0" />
+      <point x="70.54545454545496" y="137.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.Location.MapLocation.Material" target="za.ac.mandela.WRPV301.Capstone.Util.Utils">
+      <point x="0.0" y="-137.5" />
+      <point x="5767.310184503726" y="579.0" />
+      <point x="5226.848115538209" y="579.0" />
+      <point x="14.13793103448279" y="104.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Launcher" target="za.ac.mandela.WRPV301.Capstone.Event.PlayerChangeEvent">
+      <point x="-80.40000000000009" y="-148.5" />
+      <point x="3600.023605810731" y="10763.0" />
+      <point x="719.9742033871416" y="10763.0" />
+      <point x="0.0" y="27.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Combat.Insect" target="za.ac.mandela.WRPV301.Capstone.Item.Player.HealthPotion">
+      <point x="131.25" y="-160.5" />
+      <point x="12497.67245871303" y="8430.0" />
+      <point x="13700.447458713032" y="8430.0" />
+      <point x="13700.447458713032" y="5183.0" />
+      <point x="13674.233172998745" y="5183.0" />
+      <point x="0.0" y="204.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.Access.Lockable" target="za.ac.mandela.WRPV301.Capstone.Action.Actionable">
+      <point x="117.33333333333394" y="-182.5" />
+      <point x="2746.7372910135846" y="1507.0" />
+      <point x="14185.428459444523" y="1507.0" />
+      <point x="14185.428459444523" y="1092.0" />
+      <point x="14163.828459444523" y="1092.0" />
+      <point x="-73.0" y="50.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Combat.Insect.InsectType" target="za.ac.mandela.WRPV301.Capstone.Combat.Insect">
+      <point x="114.79999999999927" y="-182.0" />
+      <point x="12394.426078492139" y="8913.0" />
+      <point x="12333.089125379694" y="8913.0" />
+      <point x="-33.33333333333394" y="160.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Combat.Enemy" target="za.ac.mandela.WRPV301.Capstone.Combat.Fight">
+      <point x="0.0" y="-237.5" />
+      <point x="11772.863578492139" y="8370.0" />
+      <point x="11811.909562967436" y="8370.0" />
+      <point x="61.20000000000073" y="138.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.Weapon.WeaponType" target="za.ac.mandela.WRPV301.Capstone.Util.Utils">
+      <point x="0.0" y="-170.5" />
+      <point x="7816.608696408488" y="509.0" />
+      <point x="5266.434322434761" y="509.0" />
+      <point x="53.72413793103442" y="104.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.Location.MapLocation" target="za.ac.mandela.WRPV301.Capstone.Map.Location.Direction">
+      <point x="-122.08695652173901" y="248.5" />
+      <point x="5440.273227981987" y="2649.0" />
+      <point x="3529.166787628913" y="2649.0" />
+      <point x="88.33333333333394" y="-215.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.EpicWeapon.Name" target="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.EpicWeapon">
+      <point x="69.66666666666606" y="346.5" />
+      <point x="3039.461671190834" y="8390.0" />
+      <point x="3099.4981715167132" y="8390.0" />
+      <point x="-69.27272727272702" y="-149.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.Location.MapLocation.Lighting" target="za.ac.mandela.WRPV301.Capstone.Util.Utils">
+      <point x="0.0" y="-137.5" />
+      <point x="5330.810184503726" y="599.0" />
+      <point x="5215.537770710624" y="599.0" />
+      <point x="2.82758620689674" y="104.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.Access.Door" target="za.ac.mandela.WRPV301.Capstone.Map.Access.Accessway.Size">
+      <point x="-78.33333333333348" y="-83.0" />
+      <point x="2317.534910061203" y="1082.0" />
+      <point x="2232.1776067295586" y="1082.0" />
+      <point x="56.28571428571422" y="137.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.UI.GameController" target="za.ac.mandela.WRPV301.Capstone.Event.GameWinEvent">
+      <point x="62.823529411764866" y="-346.5" />
+      <point x="6595.003919817213" y="12405.0" />
+      <point x="11949.467745158807" y="12405.0" />
+      <point x="36.0" y="27.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.PlayerItem" target="za.ac.mandela.WRPV301.Capstone.Action.Describable">
+      <point x="53.35714285714312" y="-93.5" />
+      <point x="11614.929750091747" y="10733.0" />
+      <point x="13767.447458713032" y="10733.0" />
+      <point x="13767.447458713032" y="9542.0" />
+      <point x="13895.858172998745" y="9542.0" />
+      <point x="13895.858172998745" y="1487.0" />
+      <point x="13382.661231301761" y="1487.0" />
+      <point x="38.95833333333394" y="94.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Launcher" target="za.ac.mandela.WRPV301.Capstone.Util.FileIO">
+      <point x="0.0" y="-148.5" />
+      <point x="3680.4236058107313" y="10277.0" />
+      <point x="3759.3578833120464" y="10277.0" />
+      <point x="-50.59999999999991" y="82.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Util.Utils.XY" target="za.ac.mandela.WRPV301.Capstone.Util.Utils">
+      <point x="0.0" y="-83.0" />
+      <point x="110.0" y="329.0" />
+      <point x="5057.192943124415" y="329.0" />
+      <point x="-155.5172413793107" y="104.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.CrudeWeapon.CrudeMaterial" target="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.CrudeWeapon">
+      <point x="63.0" y="137.5" />
+      <point x="8544.88550029639" y="4324.0" />
+      <point x="8501.73550029639" y="4324.0" />
+      <point x="19.850000000000364" y="-61.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.MapData.SerializableMapData" target="za.ac.mandela.WRPV301.Capstone.Map.Access.Accessway">
+      <point x="-259.1999999999998" y="-83.0" />
+      <point x="4496.94589878944" y="4524.0" />
+      <point x="4315.39589878944" y="4524.0" />
+      <point x="84.75" y="160.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.CrudeWeapon.CrudeAdjective" target="za.ac.mandela.WRPV301.Capstone.Util.Utils">
+      <point x="64.5" y="-126.5" />
+      <point x="10301.040672710184" y="3739.0" />
+      <point x="11187.847812157148" y="3739.0" />
+      <point x="11187.847812157148" y="2839.0" />
+      <point x="11386.692372901754" y="2839.0" />
+      <point x="11386.692372901754" y="409.0" />
+      <point x="5322.986046572692" y="409.0" />
+      <point x="110.27586206896558" y="104.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Game" target="za.ac.mandela.WRPV301.Capstone.Map.MapData">
+      <point x="-30.3125" y="-137.5" />
+      <point x="6458.128339265631" y="6442.0" />
+      <point x="5062.212242174366" y="6442.0" />
+      <point x="147.5" y="589.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Player" target="za.ac.mandela.WRPV301.Capstone.Combat.Fight">
+      <point x="153.63636363636397" y="204.0" />
+      <point x="11624.489536346548" y="7082.0" />
+      <point x="11318.609404536568" y="7082.0" />
+      <point x="11318.609404536568" y="7467.0" />
+      <point x="11739.780991538864" y="7467.0" />
+      <point x="-10.928571428570649" y="-138.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Util.Utils.XYWH" target="za.ac.mandela.WRPV301.Capstone.Map.Location.Direction">
+      <point x="90.33333333333303" y="-149.0" />
+      <point x="328.33333333333303" y="11170.0" />
+      <point x="1923.8145674699672" y="11170.0" />
+      <point x="1923.8145674699672" y="9542.0" />
+      <point x="2466.8749122975532" y="9542.0" />
+      <point x="2466.8749122975532" y="6572.0" />
+      <point x="3038.8749122975532" y="6572.0" />
+      <point x="3038.8749122975532" y="3809.0" />
+      <point x="3334.833454295579" y="3809.0" />
+      <point x="-106.0" y="215.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.Armour.RareArmour.RareMaterial" target="za.ac.mandela.WRPV301.Capstone.Item.Player.Armour.ArmourMaterial">
+      <point x="-60.75" y="-126.5" />
+      <point x="9905.290672710184" y="3689.0" />
+      <point x="11039.203867154627" y="3689.0" />
+      <point x="-50.0" y="15.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.Access.Opening" target="za.ac.mandela.WRPV301.Capstone.Map.Access.Accessway">
+      <point x="62.33333333333303" y="83.5" />
+      <point x="1937.70157672787" y="3489.0" />
+      <point x="4099.668626062167" y="3489.0" />
+      <point x="-130.97727272727298" y="-160.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.Access.Lockable.Material" target="za.ac.mandela.WRPV301.Capstone.Util.Utils">
+      <point x="0.0" y="-126.5" />
+      <point x="2623.9039576802506" y="539.0" />
+      <point x="5175.951563814071" y="539.0" />
+      <point x="-36.75862068965489" y="104.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.Armour.Armour" target="za.ac.mandela.WRPV301.Capstone.Item.Player.Armour.ArmourMaterial">
+      <point x="-25.08333333333394" y="-138.5" />
+      <point x="11263.464283821293" y="3619.0" />
+      <point x="11119.203867154627" y="3619.0" />
+      <point x="30.0" y="15.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Util.ResourceMapping" target="za.ac.mandela.WRPV301.Capstone.Item.Player.Armour.Armour">
+      <point x="-15.25" y="-226.5" />
+      <point x="8976.28973166285" y="11638.0" />
+      <point x="9017.377261679425" y="11638.0" />
+      <point x="9017.377261679425" y="7567.0" />
+      <point x="10953.570737996008" y="7567.0" />
+      <point x="10953.570737996008" y="6972.0" />
+      <point x="11291.353172710184" y="6972.0" />
+      <point x="11291.353172710184" y="4504.0" />
+      <point x="11376.339283821293" y="4504.0" />
+      <point x="87.79166666666606" y="138.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.Armour.CommonArmour.CommonMaterial" target="za.ac.mandela.WRPV301.Capstone.Util.Utils">
+      <point x="-67.75" y="-126.5" />
+      <point x="9194.790672710184" y="3559.0" />
+      <point x="8630.540672710184" y="3559.0" />
+      <point x="8630.540672710184" y="449.0" />
+      <point x="5300.36535691752" y="449.0" />
+      <point x="87.65517241379348" y="104.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.MapData.TraversalGroupManager" target="za.ac.mandela.WRPV301.Capstone.Map.MapData.TraversalGroup">
+      <point x="0.0" y="-126.5" />
+      <point x="5280.64589878944" y="4524.0" />
+      <point x="5255.372089265631" y="4524.0" />
+      <point x="-123.33333333333303" y="105.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.Armour.CommonArmour" target="za.ac.mandela.WRPV301.Capstone.Item.Player.Armour.CommonArmour.CommonMaterial">
+      <point x="-66.0" y="-50.0" />
+      <point x="10039.040672710184" y="4334.0" />
+      <point x="9194.790672710184" y="4334.0" />
+      <point x="-67.75" y="126.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.UI.CanvasManager" target="za.ac.mandela.WRPV301.Capstone.Map.Location.Room">
+      <point x="121.19999999999982" y="-303.5" />
+      <point x="1981.8578761755489" y="11658.0" />
+      <point x="11374.045821520318" y="11658.0" />
+      <point x="11374.045821520318" y="10763.0" />
+      <point x="11280.447607234604" y="10763.0" />
+      <point x="-113.625" y="193.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.EpicWeapon" target="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.Weapon">
+      <point x="138.54545454545496" y="-149.5" />
+      <point x="3307.316353334895" y="8420.0" />
+      <point x="6595.940839265631" y="8420.0" />
+      <point x="6595.940839265631" y="6782.0" />
+      <point x="7821.809689551783" y="6782.0" />
+      <point x="7821.809689551783" y="4324.0" />
+      <point x="7979.650672026001" y="4324.0" />
+      <point x="-41.25" y="182.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.MapData" target="za.ac.mandela.WRPV301.Capstone.Event.GenerationEvent">
+      <point x="-281.590909090909" y="-589.5" />
+      <point x="4633.121333083458" y="5193.0" />
+      <point x="1644.4688181071797" y="5193.0" />
+      <point x="0.0" y="50.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.CommonWeapon" target="za.ac.mandela.WRPV301.Capstone.Util.Utils">
+      <point x="-187.19999999999982" y="-61.5" />
+      <point x="7263.915939551784" y="4244.0" />
+      <point x="6896.7393419767395" y="4244.0" />
+      <point x="6896.7393419767395" y="549.0" />
+      <point x="5243.813632779589" y="549.0" />
+      <point x="31.10344827586232" y="104.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Util.FileIO" target="za.ac.mandela.WRPV301.Capstone.Util.FileIO.XMLResult">
+      <point x="50.59999999999991" y="82.0" />
+      <point x="3860.557883312046" y="10277.0" />
+      <point x="3910.5245499787134" y="10277.0" />
+      <point x="0.0" y="-61.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.Armour.Armour" target="za.ac.mandela.WRPV301.Capstone.Game">
+      <point x="12.54166666666606" y="138.5" />
+      <point x="11301.089283821293" y="4474.0" />
+      <point x="11252.853172710184" y="4474.0" />
+      <point x="11252.853172710184" y="6942.0" />
+      <point x="6518.753339265631" y="6942.0" />
+      <point x="30.3125" y="-137.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Room.Corpse" target="za.ac.mandela.WRPV301.Capstone.Action.ActionBuilder">
+      <point x="-37.399999999999636" y="-72.0" />
+      <point x="12835.17245871303" y="7447.0" />
+      <point x="12570.92245871303" y="7447.0" />
+      <point x="12570.92245871303" y="1092.0" />
+      <point x="12893.809147968426" y="1092.0" />
+      <point x="-11.649999999999636" y="171.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.RareWeapon" target="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.Weapon.WeaponType">
+      <point x="-21.625" y="-61.5" />
+      <point x="6885.7393419767395" y="3499.0" />
+      <point x="7746.322982122773" y="3499.0" />
+      <point x="-70.28571428571468" y="170.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.Access.Accessway" target="za.ac.mandela.WRPV301.Capstone.Action.Describable">
+      <point x="146.38636363636397" y="-160.5" />
+      <point x="4377.032262425804" y="3769.0" />
+      <point x="13042.572458713032" y="3769.0" />
+      <point x="13042.572458713032" y="1477.0" />
+      <point x="13320.327897968426" y="1477.0" />
+      <point x="-23.375" y="94.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Combat.Humanoid" target="za.ac.mandela.WRPV301.Capstone.Item.Player.Armour.CrudeArmour">
+      <point x="89.5" y="-204.5" />
+      <point x="7051.666832408926" y="8843.0" />
+      <point x="7929.471011679425" y="8843.0" />
+      <point x="7929.471011679425" y="7617.0" />
+      <point x="8524.971011679425" y="7617.0" />
+      <point x="8524.971011679425" y="6932.0" />
+      <point x="10992.603172710184" y="6932.0" />
+      <point x="-83.25" y="50.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Combat.Humanoid" target="za.ac.mandela.WRPV301.Capstone.Item.Room.Corpse">
+      <point x="149.16666666666697" y="-204.5" />
+      <point x="7111.333499075594" y="8923.0" />
+      <point x="9006.377261679425" y="8923.0" />
+      <point x="9006.377261679425" y="8400.0" />
+      <point x="12831.016903157477" y="8400.0" />
+      <point x="-41.55555555555475" y="72.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.Access.Lockable.Lock.Key.Quality" target="za.ac.mandela.WRPV301.Capstone.Map.Access.Lockable.Lock.Key">
+      <point x="71.66666666666697" y="137.5" />
+      <point x="727.2833333333338" y="11140.0" />
+      <point x="1011.7357142857136" y="11140.0" />
+      <point x="-61.714285714286234" y="-116.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Combat.Humanoid" target="za.ac.mandela.WRPV301.Capstone.Util.Utils">
+      <point x="-169.05555555555566" y="-204.5" />
+      <point x="6793.111276853371" y="8933.0" />
+      <point x="1425.7718390804594" y="8933.0" />
+      <point x="1425.7718390804594" y="429.0" />
+      <point x="5113.744667262346" y="429.0" />
+      <point x="-98.96551724137953" y="104.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.UI.GameController" target="za.ac.mandela.WRPV301.Capstone.Event.ConsoleEvent">
+      <point x="15.705882352941444" y="-346.5" />
+      <point x="6547.886272758389" y="12375.0" />
+      <point x="7564.471011679425" y="12375.0" />
+      <point x="7564.471011679425" y="6872.0" />
+      <point x="9678.540672710184" y="6872.0" />
+      <point x="9678.540672710184" y="2839.0" />
+      <point x="9858.442639743354" y="2839.0" />
+      <point x="9858.442639743354" y="1032.0" />
+      <point x="10056.441455029179" y="1032.0" />
+      <point x="-24.75" y="94.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.Armour.RareArmour" target="za.ac.mandela.WRPV301.Capstone.Item.Player.Armour.Armour">
+      <point x="101.25" y="-50.0" />
+      <point x="10649.790672710184" y="4434.0" />
+      <point x="11200.755950487961" y="4434.0" />
+      <point x="-87.79166666666606" y="138.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.Location.MapLocation" target="za.ac.mandela.WRPV301.Capstone.Util.Utils">
+      <point x="7.800000000000182" y="-248.5" />
+      <point x="5570.160184503726" y="1952.0" />
+      <point x="5646.810184503726" y="1952.0" />
+      <point x="5646.810184503726" y="589.0" />
+      <point x="5221.192943124417" y="589.0" />
+      <point x="8.48275862069022" y="104.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Event.MapChangeEvent" target="za.ac.mandela.WRPV301.Capstone.Util.Utils">
+      <point x="0.0" y="-27.0" />
+      <point x="416.16666666666697" y="349.0" />
+      <point x="5068.503287952002" y="349.0" />
+      <point x="-144.20689655172373" y="104.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Util.ResourceMapping" target="za.ac.mandela.WRPV301.Capstone.Combat.Humanoid">
+      <point x="-76.25" y="-226.5" />
+      <point x="8915.28973166285" y="11538.0" />
+      <point x="6798.333499075593" y="11538.0" />
+      <point x="6798.333499075593" y="9532.0" />
+      <point x="6813.00016574226" y="9532.0" />
+      <point x="-149.16666666666697" y="204.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.CommonWeapon.CommonMaterial" target="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.CommonWeapon">
+      <point x="67.75" y="104.5" />
+      <point x="7442.650672026001" y="4234.0" />
+      <point x="7388.715939551784" y="4234.0" />
+      <point x="-62.399999999999636" y="-61.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.Equippable" target="za.ac.mandela.WRPV301.Capstone.Action.ActionBuilder">
+      <point x="-78.33333333333394" y="-104.5" />
+      <point x="13092.239125379696" y="2859.0" />
+      <point x="13009.572458713032" y="2859.0" />
+      <point x="13009.572458713032" y="1062.0" />
+      <point x="12987.009147968425" y="1062.0" />
+      <point x="81.54999999999927" y="171.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Action.Describable" target="za.ac.mandela.WRPV301.Capstone.Event.ConsoleEvent">
+      <point x="-70.125" y="-94.0" />
+      <point x="13273.577897968426" y="992.0" />
+      <point x="10171.941455029179" y="992.0" />
+      <point x="90.75" y="94.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.MapData" target="za.ac.mandela.WRPV301.Capstone.Map.Access.Lockable.Lock.Key">
+      <point x="-245.83333333333303" y="589.5" />
+      <point x="4668.878908841034" y="6672.0" />
+      <point x="3661.9578833120463" y="6672.0" />
+      <point x="3661.9578833120463" y="9522.0" />
+      <point x="2653.7708987894403" y="9522.0" />
+      <point x="2653.7708987894403" y="11180.0" />
+      <point x="1148.8785714285714" y="11180.0" />
+      <point x="75.42857142857156" y="-116.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Combat.Ghost.GhostAdjective" target="za.ac.mandela.WRPV301.Capstone.Util.Utils">
+      <point x="0.0" y="-159.5" />
+      <point x="7714.471011679425" y="7617.0" />
+      <point x="6820.85212453488" y="7617.0" />
+      <point x="6820.85212453488" y="6832.0" />
+      <point x="8272.88550029639" y="6832.0" />
+      <point x="8272.88550029639" y="489.0" />
+      <point x="5277.744667262346" y="489.0" />
+      <point x="65.03448275862047" y="104.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.Location.MapLocation" target="za.ac.mandela.WRPV301.Capstone.Map.Location.MapLocation.Material">
+      <point x="54.600000000000364" y="-248.5" />
+      <point x="5616.960184503727" y="1982.0" />
+      <point x="5778.310184503726" y="1982.0" />
+      <point x="5778.310184503726" y="1417.0" />
+      <point x="5811.310184503726" y="1417.0" />
+      <point x="44.0" y="137.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Player" target="za.ac.mandela.WRPV301.Capstone.Action.Action">
+      <point x="140.83333333333394" y="-204.0" />
+      <point x="11611.686506043518" y="5193.0" />
+      <point x="14116.828459444523" y="5193.0" />
+      <point x="14116.828459444523" y="599.0" />
+      <point x="14102.579006332078" y="599.0" />
+      <point x="-78.60000000000036" y="149.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Combat.Enemy" target="za.ac.mandela.WRPV301.Capstone.Combat.Insect.InsectType">
+      <point x="35.20000000000073" y="-237.5" />
+      <point x="11808.06357849214" y="9472.0" />
+      <point x="12183.959411825475" y="9472.0" />
+      <point x="-95.66666666666606" y="182.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Event.GameWinEvent" target="za.ac.mandela.WRPV301.Capstone.Util.Utils">
+      <point x="0.0" y="-27.0" />
+      <point x="11913.467745158807" y="359.0" />
+      <point x="5351.261908641658" y="359.0" />
+      <point x="138.55172413793116" y="104.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.CommonWeapon.CommonMaterial" target="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.WeaponMaterial">
+      <point x="67.75" y="-104.5" />
+      <point x="7442.650672026001" y="3539.0" />
+      <point x="8504.38550029639" y="3539.0" />
+      <point x="-30.0" y="15.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.UI.GameController" target="za.ac.mandela.WRPV301.Capstone.Util.InputParser">
+      <point x="109.94117647058829" y="-346.5" />
+      <point x="6642.121566876036" y="12435.0" />
+      <point x="14122.358172998745" y="12435.0" />
+      <point x="0.0" y="115.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Combat.Humanoid" target="za.ac.mandela.WRPV301.Capstone.Item.Player.Armour.RareArmour">
+      <point x="69.61111111111131" y="-204.5" />
+      <point x="7031.777943520037" y="8833.0" />
+      <point x="7853.471011679425" y="8833.0" />
+      <point x="7853.471011679425" y="7607.0" />
+      <point x="8221.63348166285" y="7607.0" />
+      <point x="8221.63348166285" y="6912.0" />
+      <point x="10548.540672710184" y="6912.0" />
+      <point x="0.0" y="50.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Util.FileIO" target="za.ac.mandela.WRPV301.Capstone.Map.MapData">
+      <point x="-31.625" y="-82.0" />
+      <point x="3778.3328833120463" y="6692.0" />
+      <point x="4865.5455755077" y="6692.0" />
+      <point x="-49.16666666666697" y="589.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.Access.Accessway" target="za.ac.mandela.WRPV301.Capstone.Map.Access.Gate">
+      <point x="-38.522727272727025" y="-160.5" />
+      <point x="4192.123171516713" y="3429.0" />
+      <point x="2669.7090350812277" y="3429.0" />
+      <point x="0.0" y="61.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.CommonWeapon.CommonAdjective" target="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.WeaponAdjective">
+      <point x="69.25" y="-126.5" />
+      <point x="7739.150672026001" y="3609.0" />
+      <point x="8693.540672710184" y="3609.0" />
+      <point x="-31.5" y="15.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Launcher" target="za.ac.mandela.WRPV301.Capstone.Util.FileIO.XMLResult">
+      <point x="40.19999999999982" y="-148.5" />
+      <point x="3720.623605810731" y="10753.0" />
+      <point x="3910.5245499787134" y="10753.0" />
+      <point x="0.0" y="61.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Combat.Ghost.GhostAdjective" target="za.ac.mandela.WRPV301.Capstone.Combat.Ghost">
+      <point x="96.375" y="159.5" />
+      <point x="7810.846011679425" y="8400.0" />
+      <point x="8079.613868822282" y="8400.0" />
+      <point x="-55.85714285714312" y="-171.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Combat.Combatant" target="za.ac.mandela.WRPV301.Capstone.Combat.Fight">
+      <point x="-42.9375" y="93.5" />
+      <point x="12652.98495871303" y="5143.0" />
+      <point x="12715.772458713029" y="5143.0" />
+      <point x="12715.772458713029" y="7527.0" />
+      <point x="11783.495277253149" y="7527.0" />
+      <point x="32.785714285713766" y="-138.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.EpicWeapon" target="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.Weapon.WeaponType">
+      <point x="103.90909090909099" y="-149.5" />
+      <point x="3272.6799896985312" y="8410.0" />
+      <point x="5718.272957868212" y="8410.0" />
+      <point x="5718.272957868212" y="6742.0" />
+      <point x="6610.7393419767395" y="6742.0" />
+      <point x="6610.7393419767395" y="3489.0" />
+      <point x="7711.180124979916" y="3489.0" />
+      <point x="-105.42857142857156" y="170.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Combat.Enemy" target="za.ac.mandela.WRPV301.Capstone.Event.LocationChangeEvent">
+      <point x="-105.60000000000036" y="-237.5" />
+      <point x="11667.26357849214" y="9492.0" />
+      <point x="2326.8749122975532" y="9492.0" />
+      <point x="2326.8749122975532" y="6552.0" />
+      <point x="2909.8749122975532" y="6552.0" />
+      <point x="2909.8749122975532" y="3779.0" />
+      <point x="3145.8548031063065" y="3779.0" />
+      <point x="3145.8548031063065" y="2609.0" />
+      <point x="4342.1101845037265" y="2609.0" />
+      <point x="-20.5" y="50.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Player" target="za.ac.mandela.WRPV301.Capstone.Map.Location.MapLocation">
+      <point x="-122.05555555555475" y="-204.0" />
+      <point x="11348.797617154629" y="5023.0" />
+      <point x="6555.448037628914" y="5023.0" />
+      <point x="6555.448037628914" y="2759.0" />
+      <point x="5711.5775758080745" y="2759.0" />
+      <point x="149.21739130434798" y="248.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Game" target="za.ac.mandela.WRPV301.Capstone.Event.ConsoleEvent">
+      <point x="18.1875" y="-137.5" />
+      <point x="6506.628339265631" y="6852.0" />
+      <point x="8819.540672710184" y="6852.0" />
+      <point x="8819.540672710184" y="2819.0" />
+      <point x="9417.942639743354" y="2819.0" />
+      <point x="9417.942639743354" y="1012.0" />
+      <point x="10023.441455029179" y="1012.0" />
+      <point x="-57.75" y="94.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.Location.Room" target="za.ac.mandela.WRPV301.Capstone.Item.Player.PlayerItem">
+      <point x="37.875" y="193.0" />
+      <point x="11431.947607234604" y="10713.0" />
+      <point x="11531.929750091747" y="10713.0" />
+      <point x="-29.642857142856883" y="-93.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Combat.Humanoid" target="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.CommonWeapon">
+      <point x="-49.722222222222626" y="-204.5" />
+      <point x="6912.444610186703" y="8873.0" />
+      <point x="6236.197957868211" y="8873.0" />
+      <point x="6236.197957868211" y="6762.0" />
+      <point x="7451.115939551783" y="6762.0" />
+      <point x="0.0" y="61.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Room.Corpse" target="za.ac.mandela.WRPV301.Capstone.Game">
+      <point x="-74.79999999999927" y="-72.0" />
+      <point x="12797.772458713032" y="7457.0" />
+      <point x="6541.3499301747215" y="7457.0" />
+      <point x="52.90909090909099" y="137.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.Location.MapLocation" target="za.ac.mandela.WRPV301.Capstone.Map.Access.Accessway">
+      <point x="-67.82608695652198" y="248.5" />
+      <point x="5494.5340975472045" y="2689.0" />
+      <point x="4232.586918575202" y="2689.0" />
+      <point x="4232.586918575202" y="3349.0" />
+      <point x="4315.39589878944" y="3349.0" />
+      <point x="84.75" y="-160.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.Location.MapLocation" target="za.ac.mandela.WRPV301.Capstone.Map.Location.MapLocation.Lighting">
+      <point x="-70.19999999999982" y="-248.5" />
+      <point x="5492.160184503726" y="1992.0" />
+      <point x="5330.810184503726" y="1992.0" />
+      <point x="0.0" y="137.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Room.Corpse" target="za.ac.mandela.WRPV301.Capstone.Map.Location.Room">
+      <point x="62.33333333333394" y="72.0" />
+      <point x="12934.905792046364" y="8400.0" />
+      <point x="12949.628014268586" y="8400.0" />
+      <point x="12949.628014268586" y="10167.0" />
+      <point x="11457.197607234604" y="10167.0" />
+      <point x="63.125" y="-193.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.Access.Door" target="za.ac.mandela.WRPV301.Capstone.Map.Access.Lockable.Material">
+      <point x="78.33333333333348" y="-83.0" />
+      <point x="2474.201576727871" y="1092.0" />
+      <point x="2535.9039576802506" y="1092.0" />
+      <point x="-88.0" y="126.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.Location.Room" target="za.ac.mandela.WRPV301.Capstone.Combat.Humanoid">
+      <point x="-63.125" y="-193.0" />
+      <point x="11330.947607234604" y="10157.0" />
+      <point x="6882.37516574226" y="10157.0" />
+      <point x="6882.37516574226" y="9542.0" />
+      <point x="6932.333499075594" y="9542.0" />
+      <point x="-29.83333333333303" y="204.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.RareWeapon.RareMaterial" target="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.RareWeapon">
+      <point x="60.75" y="126.5" />
+      <point x="6814.4893419767395" y="4524.0" />
+      <point x="6842.492109502522" y="4524.0" />
+      <point x="-64.875" y="-61.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.MapData.TraversalGroupManager" target="za.ac.mandela.WRPV301.Capstone.Map.MapData">
+      <point x="119.66666666666697" y="126.5" />
+      <point x="5400.312565456107" y="5093.0" />
+      <point x="5035.394060356184" y="5093.0" />
+      <point x="120.68181818181802" y="-589.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.Location.Room" target="za.ac.mandela.WRPV301.Capstone.Util.Utils">
+      <point x="-147.29166666666606" y="-193.0" />
+      <point x="11246.780940567938" y="10257.0" />
+      <point x="1982.892153676864" y="10257.0" />
+      <point x="1982.892153676864" y="9502.0" />
+      <point x="1403.7718390804594" y="9502.0" />
+      <point x="1403.7718390804594" y="419.0" />
+      <point x="5108.089494848555" y="419.0" />
+      <point x="-104.6206896551721" y="104.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.CrudeWeapon" target="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.WeaponAdjective">
+      <point x="99.25" y="-61.5" />
+      <point x="8581.13550029639" y="4354.0" />
+      <point x="8778.040672710184" y="4354.0" />
+      <point x="52.5" y="15.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.UI.CanvasManager" target="za.ac.mandela.WRPV301.Capstone.Util.Utils">
+      <point x="-141.39999999999964" y="-303.5" />
+      <point x="1719.2578761755494" y="11718.0" />
+      <point x="0.0" y="11718.0" />
+      <point x="0.0" y="319.0" />
+      <point x="5051.537770710624" y="319.0" />
+      <point x="-161.17241379310326" y="104.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.Access.Gate" target="za.ac.mandela.WRPV301.Capstone.Util.Utils">
+      <point x="-66.57142857142844" y="-61.0" />
+      <point x="2603.1376065097993" y="2849.0" />
+      <point x="2218.368243394537" y="2849.0" />
+      <point x="2218.368243394537" y="1912.0" />
+      <point x="2038.0083296014336" y="1912.0" />
+      <point x="2038.0083296014336" y="509.0" />
+      <point x="5158.986046572692" y="509.0" />
+      <point x="-53.72413793103442" y="104.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.Armour.RareArmour.RareMaterial" target="za.ac.mandela.WRPV301.Capstone.Item.Player.Armour.RareArmour">
+      <point x="60.75" y="126.5" />
+      <point x="10026.790672710184" y="4284.0" />
+      <point x="10528.290672710184" y="4284.0" />
+      <point x="-20.25" y="-50.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.Access.Accessway" target="za.ac.mandela.WRPV301.Capstone.Map.Location.MapLocation">
+      <point x="69.34090909090901" y="-160.5" />
+      <point x="4299.986807880349" y="3359.0" />
+      <point x="4221.586918575202" y="3359.0" />
+      <point x="4221.586918575202" y="2679.0" />
+      <point x="5480.9688801559005" y="2679.0" />
+      <point x="-81.39130434782601" y="248.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Combat.Ghost" target="za.ac.mandela.WRPV301.Capstone.Util.Utils">
+      <point x="55.85714285714312" y="-171.5" />
+      <point x="8191.328154536568" y="8360.0" />
+      <point x="8579.3471963936" y="8360.0" />
+      <point x="8579.3471963936" y="7617.0" />
+      <point x="11755.982961982212" y="7617.0" />
+      <point x="11755.982961982212" y="379.0" />
+      <point x="5339.951563814071" y="379.0" />
+      <point x="127.24137931034511" y="104.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.Location.MapLocation" target="za.ac.mandela.WRPV301.Capstone.Action.Describable">
+      <point x="117.0" y="-248.5" />
+      <point x="5679.3601845037265" y="2022.0" />
+      <point x="12537.92245871303" y="2022.0" />
+      <point x="12537.92245871303" y="1447.0" />
+      <point x="13273.577897968426" y="1447.0" />
+      <point x="-70.125" y="94.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.MapData" target="za.ac.mandela.WRPV301.Capstone.Util.Utils">
+      <point x="-254.77272727272702" y="-589.5" />
+      <point x="4659.93951490164" y="5183.0" />
+      <point x="2143.0473260906565" y="5183.0" />
+      <point x="2143.0473260906565" y="3759.0" />
+      <point x="1724.5464043140755" y="3759.0" />
+      <point x="1724.5464043140755" y="479.0" />
+      <point x="5142.020529331312" y="479.0" />
+      <point x="-70.68965517241395" y="104.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.Access.Opening.Type" target="za.ac.mandela.WRPV301.Capstone.Util.Utils">
+      <point x="0.0" y="-181.5" />
+      <point x="1841.701576727869" y="499.0" />
+      <point x="5153.330874158899" y="499.0" />
+      <point x="-59.3793103448279" y="104.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.CrudeWeapon" target="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.Weapon">
+      <point x="-178.64999999999964" y="-61.5" />
+      <point x="8303.23550029639" y="4264.0" />
+      <point x="8172.150672026001" y="4264.0" />
+      <point x="151.25" y="182.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.UI.GameController" target="za.ac.mandela.WRPV301.Capstone.Launcher">
+      <point x="-31.41176470588198" y="-346.5" />
+      <point x="6500.768625699566" y="12385.0" />
+      <point x="3619.2986058107313" y="12385.0" />
+      <point x="3619.2986058107313" y="11180.0" />
+      <point x="3613.4236058107313" y="11180.0" />
+      <point x="-67.0" y="148.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Combat.Insect" target="za.ac.mandela.WRPV301.Capstone.Combat.Insect.InsectSize">
+      <point x="-93.75" y="-160.5" />
+      <point x="12272.67245871303" y="8370.0" />
+      <point x="12262.697458713028" y="8370.0" />
+      <point x="0.0" y="93.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.Armour.CrudeArmour" target="za.ac.mandela.WRPV301.Capstone.Item.Player.Armour.Armour">
+      <point x="62.4375" y="-50.0" />
+      <point x="11138.290672710184" y="4464.0" />
+      <point x="11276.005950487961" y="4464.0" />
+      <point x="-12.54166666666606" y="138.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.Armour.RareArmour" target="za.ac.mandela.WRPV301.Capstone.Item.Player.Armour.ArmourAdjective">
+      <point x="20.25" y="-50.0" />
+      <point x="10568.790672710184" y="3669.0" />
+      <point x="10514.415672710184" y="3669.0" />
+      <point x="-10.5" y="15.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.Armour.CrudeArmour.CrudeAdjective" target="za.ac.mandela.WRPV301.Capstone.Item.Player.Armour.CrudeArmour">
+      <point x="64.5" y="126.5" />
+      <point x="10980.040672710184" y="4404.0" />
+      <point x="11013.415672710184" y="4404.0" />
+      <point x="-62.4375" y="-50.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.CommonWeapon" target="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.WeaponMaterial">
+      <point x="-20.800000000000182" y="-61.5" />
+      <point x="7430.315939551783" y="4244.0" />
+      <point x="7520.900672026001" y="4244.0" />
+      <point x="7520.900672026001" y="3549.0" />
+      <point x="8524.38550029639" y="3549.0" />
+      <point x="-10.0" y="15.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.EpicWeapon.EpicAdjective" target="za.ac.mandela.WRPV301.Capstone.Util.Utils">
+      <point x="-62.0" y="-149.5" />
+      <point x="5620.705422598963" y="2579.0" />
+      <point x="4153.396469772973" y="2579.0" />
+      <point x="4153.396469772973" y="589.0" />
+      <point x="5204.227425883037" y="589.0" />
+      <point x="-8.48275862068931" y="104.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Game" target="za.ac.mandela.WRPV301.Capstone.Player">
+      <point x="42.4375" y="-137.5" />
+      <point x="6530.878339265631" y="6982.0" />
+      <point x="11317.21680907382" y="6982.0" />
+      <point x="-153.63636363636397" y="204.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Event.AccesswayChangeEvent" target="za.ac.mandela.WRPV301.Capstone.Map.Access.Accessway">
+      <point x="61.0" y="50.0" />
+      <point x="3039.7772168994097" y="1427.0" />
+      <point x="3070.0272168994097" y="1427.0" />
+      <point x="3070.0272168994097" y="3379.0" />
+      <point x="4269.168626062167" y="3379.0" />
+      <point x="38.522727272727025" y="-160.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.Access.Accessway" target="za.ac.mandela.WRPV301.Capstone.Action.ActionBuilder">
+      <point x="115.56818181818198" y="-160.5" />
+      <point x="4346.214080607622" y="3649.0" />
+      <point x="9034.066455029179" y="3649.0" />
+      <point x="9034.066455029179" y="2859.0" />
+      <point x="12548.92245871303" y="2859.0" />
+      <point x="12548.92245871303" y="1072.0" />
+      <point x="12847.209147968426" y="1072.0" />
+      <point x="-58.25" y="171.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Combat.Humanoid" target="za.ac.mandela.WRPV301.Capstone.Item.Player.Armour.Armour">
+      <point x="129.27777777777737" y="-204.5" />
+      <point x="7091.444610186703" y="8913.0" />
+      <point x="8995.377261679425" y="8913.0" />
+      <point x="8995.377261679425" y="7557.0" />
+      <point x="10937.070737996008" y="7557.0" />
+      <point x="10937.070737996008" y="6962.0" />
+      <point x="11274.853172710184" y="6962.0" />
+      <point x="11274.853172710184" y="4494.0" />
+      <point x="11351.255950487961" y="4494.0" />
+      <point x="62.70833333333394" y="138.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.Access.Lockable" target="za.ac.mandela.WRPV301.Capstone.Map.Access.Gate">
+      <point x="46.54545454545405" y="182.5" />
+      <point x="2675.9494122257047" y="2032.0" />
+      <point x="2749.9947493669415" y="2032.0" />
+      <point x="2749.9947493669415" y="2859.0" />
+      <point x="2702.9947493669415" y="2859.0" />
+      <point x="33.285714285713766" y="-61.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.HealthPotion" target="za.ac.mandela.WRPV301.Capstone.Action.ActionBuilder">
+      <point x="-56.25" y="-204.5" />
+      <point x="13617.983172998745" y="4494.0" />
+      <point x="12998.572458713032" y="4494.0" />
+      <point x="12998.572458713032" y="1072.0" />
+      <point x="12963.709147968426" y="1072.0" />
+      <point x="58.25" y="171.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Combat.Ghost" target="za.ac.mandela.WRPV301.Capstone.Combat.Ghost.GhostType">
+      <point x="-71.09090909090901" y="171.5" />
+      <point x="8064.380102588515" y="8883.0" />
+      <point x="7993.779266645643" y="8883.0" />
+      <point x="57.5" y="-182.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Player" target="za.ac.mandela.WRPV301.Capstone.Event.GameWinEvent">
+      <point x="28.16666666666606" y="-204.0" />
+      <point x="11499.01983937685" y="5113.0" />
+      <point x="11877.467745158807" y="5113.0" />
+      <point x="-36.0" y="27.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.EpicWeapon.EpicMaterial" target="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.WeaponMaterial">
+      <point x="60.5" y="-148.5" />
+      <point x="3951.624549978713" y="3519.0" />
+      <point x="8464.38550029639" y="3519.0" />
+      <point x="-70.0" y="15.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Combat.Insect" target="za.ac.mandela.WRPV301.Capstone.Item.Room.Corpse">
+      <point x="56.25" y="-160.5" />
+      <point x="12422.67245871303" y="8410.0" />
+      <point x="12851.794680935254" y="8410.0" />
+      <point x="-20.777777777777374" y="72.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.CrudeWeapon" target="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.WeaponMaterial">
+      <point x="59.54999999999927" y="-61.5" />
+      <point x="8541.43550029639" y="4344.0" />
+      <point x="8685.963086503287" y="4344.0" />
+      <point x="8685.963086503287" y="3579.0" />
+      <point x="8604.38550029639" y="3579.0" />
+      <point x="70.0" y="15.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.EpicWeapon" target="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.EpicWeapon.EpicMaterial">
+      <point x="0.0" y="-149.5" />
+      <point x="3168.7708987894403" y="8430.0" />
+      <point x="3179.816353334895" y="8430.0" />
+      <point x="3179.816353334895" y="6632.0" />
+      <point x="3925.6458987894403" y="6632.0" />
+      <point x="3925.6458987894403" y="4524.0" />
+      <point x="3951.624549978713" y="4524.0" />
+      <point x="60.5" y="148.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.Location.Room" target="za.ac.mandela.WRPV301.Capstone.Combat.Insect.InsectType">
+      <point x="37.875" y="-193.0" />
+      <point x="11431.947607234604" y="10137.0" />
+      <point x="12445.147458713029" y="10137.0" />
+      <point x="12445.147458713029" y="9472.0" />
+      <point x="12375.292745158808" y="9472.0" />
+      <point x="95.66666666666606" y="182.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.Access.Lockable" target="za.ac.mandela.WRPV301.Capstone.Map.Access.Accessway.Size">
+      <point x="-53.33333333333303" y="-182.5" />
+      <point x="2576.0706243469176" y="1477.0" />
+      <point x="2523.868243394537" y="1477.0" />
+      <point x="2523.868243394537" y="1072.0" />
+      <point x="2260.3204638724155" y="1072.0" />
+      <point x="84.42857142857156" y="137.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.UI.GameController" target="za.ac.mandela.WRPV301.Capstone.Util.Utils.XY">
+      <point x="-125.64705882352882" y="-346.5" />
+      <point x="6406.533331581919" y="12445.0" />
+      <point x="71.33333333333303" y="12445.0" />
+      <point x="71.33333333333303" y="11190.0" />
+      <point x="43.66666666666697" y="11190.0" />
+      <point x="-66.33333333333303" y="83.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Event.ConsoleEvent" target="za.ac.mandela.WRPV301.Capstone.Util.Utils">
+      <point x="0.0" y="-94.5" />
+      <point x="10081.191455029179" y="429.0" />
+      <point x="5311.6757017451055" y="429.0" />
+      <point x="98.96551724137953" y="104.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Room.Corpse" target="za.ac.mandela.WRPV301.Capstone.Item.Room.RoomItem">
+      <point x="0.0" y="-72.0" />
+      <point x="12872.572458713032" y="7527.0" />
+      <point x="13797.233172998745" y="7527.0" />
+      <point x="13797.233172998745" y="4514.0" />
+      <point x="13774.358172998745" y="4514.0" />
+      <point x="-37.0" y="38.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.MapData.TraversalGroup" target="za.ac.mandela.WRPV301.Capstone.Map.Location.MapLocation">
+      <point x="-74.0" y="-105.5" />
+      <point x="5304.705422598965" y="3509.0" />
+      <point x="5373.205422598965" y="3509.0" />
+      <point x="5373.205422598965" y="2769.0" />
+      <point x="5603.055836677639" y="2769.0" />
+      <point x="40.695652173913004" y="248.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.UI.CanvasManager" target="za.ac.mandela.WRPV301.Capstone.Event.MapChangeEvent">
+      <point x="-80.80000000000018" y="-303.5" />
+      <point x="1779.8578761755489" y="11688.0" />
+      <point x="395.0" y="11688.0" />
+      <point x="395.0" y="7092.0" />
+      <point x="416.16666666666697" y="7092.0" />
+      <point x="0.0" y="27.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Util.FileIO" target="za.ac.mandela.WRPV301.Capstone.Player">
+      <point x="94.875" y="-82.0" />
+      <point x="3904.8328833120463" y="9552.0" />
+      <point x="9107.127261679425" y="9552.0" />
+      <point x="9107.127261679425" y="7577.0" />
+      <point x="11043.320737996008" y="7577.0" />
+      <point x="11043.320737996008" y="7022.0" />
+      <point x="11440.125899982912" y="7022.0" />
+      <point x="-30.727272727272066" y="204.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.Access.Gate" target="za.ac.mandela.WRPV301.Capstone.Map.Access.Accessway.Size">
+      <point x="-33.285714285713766" y="-61.0" />
+      <point x="2636.423320795514" y="2839.0" />
+      <point x="2267.868243394537" y="2839.0" />
+      <point x="2267.868243394537" y="1092.0" />
+      <point x="2204.0347495867018" y="1092.0" />
+      <point x="28.142857142857792" y="137.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.Armour.CommonArmour" target="za.ac.mandela.WRPV301.Capstone.Item.Player.Armour.CommonArmour.CommonAdjective">
+      <point x="-154.0" y="-50.0" />
+      <point x="9951.040672710184" y="4354.0" />
+      <point x="8899.290672710184" y="4354.0" />
+      <point x="-69.25" y="126.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.Access.Lockable.Lock.Key" target="za.ac.mandela.WRPV301.Capstone.Map.Access.Lockable.Lock">
+      <point x="61.714285714286234" y="-116.5" />
+      <point x="1135.164285714286" y="11160.0" />
+      <point x="1663.8772206285212" y="11160.0" />
+      <point x="1663.8772206285212" y="9552.0" />
+      <point x="1767.1099792492105" y="9552.0" />
+      <point x="1767.1099792492105" y="7092.0" />
+      <point x="1899.6099792492105" y="7092.0" />
+      <point x="1899.6099792492105" y="3789.0" />
+      <point x="2108.9682433945354" y="3789.0" />
+      <point x="2108.9682433945354" y="2869.0" />
+      <point x="2120.868243394537" y="2869.0" />
+      <point x="0.0" y="116.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Util.FileIO" target="za.ac.mandela.WRPV301.Capstone.Game">
+      <point x="31.625" y="-82.0" />
+      <point x="3841.5828833120463" y="9542.0" />
+      <point x="6282.266139686393" y="9542.0" />
+      <point x="6282.266139686393" y="7587.0" />
+      <point x="6417.895384720176" y="7587.0" />
+      <point x="-70.54545454545496" y="137.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.Location.Room" target="za.ac.mandela.WRPV301.Capstone.Action.Actionable">
+      <point x="138.875" y="-193.0" />
+      <point x="11532.947607234604" y="10267.0" />
+      <point x="14344.85400633208" y="10267.0" />
+      <point x="14344.85400633208" y="1082.0" />
+      <point x="14324.428459444523" y="1082.0" />
+      <point x="87.60000000000036" y="50.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.Location.MapLocation" target="za.ac.mandela.WRPV301.Capstone.Game">
+      <point x="108.52173913043498" y="248.5" />
+      <point x="5670.881923634161" y="2789.0" />
+      <point x="5828.205422598963" y="2789.0" />
+      <point x="5828.205422598963" y="6422.0" />
+      <point x="6482.378339265631" y="6422.0" />
+      <point x="-6.0625" y="-137.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.CrudeWeapon" target="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.CrudeWeapon.CrudeMaterial">
+      <point x="-19.850000000000364" y="-61.5" />
+      <point x="8462.03550029639" y="4224.0" />
+      <point x="8418.88550029639" y="4224.0" />
+      <point x="-63.0" y="137.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Combat.Fight" target="za.ac.mandela.WRPV301.Capstone.Util.Utils">
+      <point x="10.928571428570649" y="-138.5" />
+      <point x="11761.638134396006" y="369.0" />
+      <point x="5345.6067362278645" y="369.0" />
+      <point x="132.89655172413768" y="104.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.Access.Lockable.Material" target="za.ac.mandela.WRPV301.Capstone.Map.Access.Lockable">
+      <point x="44.0" y="126.5" />
+      <point x="2667.9039576802506" y="1092.0" />
+      <point x="2649.0272168994097" y="1092.0" />
+      <point x="2649.0272168994097" y="1507.0" />
+      <point x="2640.0706243469167" y="1507.0" />
+      <point x="10.66666666666606" y="-182.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Combat.Ghost.GhostType" target="za.ac.mandela.WRPV301.Capstone.Combat.Ghost">
+      <point x="-57.5" y="-182.0" />
+      <point x="7878.779266645643" y="8853.0" />
+      <point x="7957.743738952151" y="8853.0" />
+      <point x="-177.72727272727298" y="171.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Combat.Fight" target="za.ac.mandela.WRPV301.Capstone.Map.Location.MapLocation">
+      <point x="-98.35714285714312" y="-138.5" />
+      <point x="11652.352420110292" y="7507.0" />
+      <point x="8820.990053536458" y="7507.0" />
+      <point x="8820.990053536458" y="6722.0" />
+      <point x="6533.448037628914" y="6722.0" />
+      <point x="6533.448037628914" y="2779.0" />
+      <point x="5684.447141025465" y="2779.0" />
+      <point x="122.08695652173901" y="248.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Combat.Fight" target="za.ac.mandela.WRPV301.Capstone.Event.AccesswayChangeEvent">
+      <point x="-142.07142857142935" y="-138.5" />
+      <point x="11608.638134396006" y="7527.0" />
+      <point x="4376.541216645379" y="7527.0" />
+      <point x="4376.541216645379" y="6522.0" />
+      <point x="2729.9080789603195" y="6522.0" />
+      <point x="2729.9080789603195" y="3749.0" />
+      <point x="2878.6257017478956" y="3749.0" />
+      <point x="2878.6257017478956" y="2869.0" />
+      <point x="2986.4438835660776" y="2869.0" />
+      <point x="2986.4438835660776" y="1417.0" />
+      <point x="2958.443883566076" y="1417.0" />
+      <point x="-20.33333333333394" y="50.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.Armour.CommonArmour.CommonAdjective" target="za.ac.mandela.WRPV301.Capstone.Item.Player.Armour.CommonArmour">
+      <point x="69.25" y="126.5" />
+      <point x="9037.790672710184" y="4344.0" />
+      <point x="9995.040672710184" y="4344.0" />
+      <point x="-110.0" y="-50.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.UI.GameController" target="za.ac.mandela.WRPV301.Capstone.Action.Action">
+      <point x="125.64705882352973" y="-346.5" />
+      <point x="6657.827449228977" y="12445.0" />
+      <point x="14403.254006332078" y="12445.0" />
+      <point x="14403.254006332078" y="599.0" />
+      <point x="14416.97900633208" y="599.0" />
+      <point x="235.79999999999927" y="149.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Combat.Insect" target="za.ac.mandela.WRPV301.Capstone.Combat.Enemy">
+      <point x="0.0" y="160.5" />
+      <point x="12366.42245871303" y="8903.0" />
+      <point x="12433.62607849214" y="8903.0" />
+      <point x="12433.62607849214" y="9482.0" />
+      <point x="11816.863578492139" y="9482.0" />
+      <point x="44.0" y="-237.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.Armour.CrudeArmour.CrudeMaterial" target="za.ac.mandela.WRPV301.Capstone.Item.Player.Armour.ArmourMaterial">
+      <point x="-63.0" y="-126.5" />
+      <point x="11522.047617154627" y="3599.0" />
+      <point x="11159.203867154627" y="3599.0" />
+      <point x="70.0" y="15.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Util.ResourceMapping" target="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.Weapon">
+      <point x="-106.75" y="-226.5" />
+      <point x="8884.78973166285" y="11548.0" />
+      <point x="6617.940839265631" y="11548.0" />
+      <point x="6617.940839265631" y="6802.0" />
+      <point x="8088.119422026001" y="6802.0" />
+      <point x="8088.119422026001" y="4314.0" />
+      <point x="8034.650672026001" y="4314.0" />
+      <point x="13.75" y="182.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.UI.GameController" target="za.ac.mandela.WRPV301.Capstone.Game">
+      <point x="0.0" y="-346.5" />
+      <point x="6532.180390405447" y="12365.0" />
+      <point x="6394.04530635306" y="12365.0" />
+      <point x="6394.04530635306" y="7607.0" />
+      <point x="6453.1681119929035" y="7607.0" />
+      <point x="-35.272727272727025" y="137.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.Access.Lockable.Lock.Key" target="za.ac.mandela.WRPV301.Capstone.Map.Access.Lockable.Lock.Key.Size">
+      <point x="-48.0" y="-116.5" />
+      <point x="1025.4499999999998" y="11130.0" />
+      <point x="815.9499999999998" y="11130.0" />
+      <point x="-65.66666666666663" y="126.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Combat.Insect.InsectType" target="za.ac.mandela.WRPV301.Capstone.Map.Location.Room">
+      <point x="0.0" y="182.0" />
+      <point x="12279.62607849214" y="9472.0" />
+      <point x="12323.25107849214" y="9472.0" />
+      <point x="12323.25107849214" y="10127.0" />
+      <point x="11423.530940567938" y="10127.0" />
+      <point x="29.45833333333394" y="-193.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.CommonWeapon" target="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.Weapon">
+      <point x="145.60000000000036" y="-61.5" />
+      <point x="7596.715939551784" y="4304.0" />
+      <point x="7924.650672026001" y="4304.0" />
+      <point x="-96.25" y="182.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.PlayerItem" target="za.ac.mandela.WRPV301.Capstone.Action.ActionBuilder">
+      <point x="17.785714285713766" y="-93.5" />
+      <point x="11579.358321520318" y="10703.0" />
+      <point x="12976.572458713032" y="10703.0" />
+      <point x="12976.572458713032" y="1092.0" />
+      <point x="12917.109147968426" y="1092.0" />
+      <point x="11.649999999999636" y="171.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.Access.Lockable" target="za.ac.mandela.WRPV301.Capstone.Action.ActionBuilder">
+      <point x="53.33333333333394" y="-182.5" />
+      <point x="2682.7372910135846" y="1417.0" />
+      <point x="2770.0706243469167" y="1417.0" />
+      <point x="2770.0706243469167" y="1052.0" />
+      <point x="12800.609147968426" y="1052.0" />
+      <point x="-104.85000000000036" y="171.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.Access.Accessway" target="za.ac.mandela.WRPV301.Capstone.Map.Access.Accessway.Size">
+      <point x="-100.15909090909099" y="-160.5" />
+      <point x="4130.486807880349" y="3469.0" />
+      <point x="1990.3682433945369" y="3469.0" />
+      <point x="1990.3682433945369" y="1942.0" />
+      <point x="2120.868243394537" y="1942.0" />
+      <point x="2120.868243394537" y="1082.0" />
+      <point x="2147.749035300986" y="1082.0" />
+      <point x="-28.142857142857792" y="137.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Main" target="za.ac.mandela.WRPV301.Capstone.Launcher">
+      <point x="-37.25" y="-27.0" />
+      <point x="3667.0486058107313" y="11180.0" />
+      <point x="3680.4236058107313" y="11180.0" />
+      <point x="0.0" y="148.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.UI.CanvasManager" target="za.ac.mandela.WRPV301.Capstone.Event.AccesswayChangeEvent">
+      <point x="-20.199999999999818" y="-303.5" />
+      <point x="1840.4578761755492" y="11588.0" />
+      <point x="1901.8145674699672" y="11588.0" />
+      <point x="1901.8145674699672" y="9522.0" />
+      <point x="2005.0473260906565" y="9522.0" />
+      <point x="2005.0473260906565" y="6522.0" />
+      <point x="2487.8130485893407" y="6522.0" />
+      <point x="2487.8130485893407" y="3739.0" />
+      <point x="2867.6257017478956" y="3739.0" />
+      <point x="2867.6257017478956" y="2859.0" />
+      <point x="2975.4438835660776" y="2859.0" />
+      <point x="2975.4438835660776" y="1427.0" />
+      <point x="2917.7772168994097" y="1427.0" />
+      <point x="-61.0" y="50.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.EpicWeapon.EpicAdjective" target="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.EpicWeapon">
+      <point x="62.0" y="149.5" />
+      <point x="5744.705422598963" y="4524.0" />
+      <point x="5688.205422598963" y="4524.0" />
+      <point x="5688.205422598963" y="6722.0" />
+      <point x="4258.053636884678" y="6722.0" />
+      <point x="4258.053636884678" y="8400.0" />
+      <point x="3238.0436260621673" y="8400.0" />
+      <point x="69.27272727272702" y="-149.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Action.Actionable" target="za.ac.mandela.WRPV301.Capstone.Action.Action">
+      <point x="-54.75" y="-50.0" />
+      <point x="14182.078459444523" y="599.0" />
+      <point x="14154.97900633208" y="599.0" />
+      <point x="-26.200000000000728" y="149.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.UI.CanvasManager" target="za.ac.mandela.WRPV301.Capstone.Main">
+      <point x="101.0" y="-303.5" />
+      <point x="1961.657876175549" y="11648.0" />
+      <point x="3654.6319391440647" y="11648.0" />
+      <point x="-49.666666666666515" y="27.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.UI.GameController" target="za.ac.mandela.WRPV301.Capstone.Event.GameLossEvent">
+      <point x="78.52941176470631" y="-346.5" />
+      <point x="6610.709802170153" y="12415.0" />
+      <point x="12119.467745158807" y="12415.0" />
+      <point x="38.0" y="27.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.Access.Door" target="za.ac.mandela.WRPV301.Capstone.Map.Access.Lockable.Lock">
+      <point x="-19.58333333333394" y="83.0" />
+      <point x="2376.284910061203" y="1507.0" />
+      <point x="2164.868243394537" y="1507.0" />
+      <point x="2164.868243394537" y="1982.0" />
+      <point x="2055.618243394537" y="1982.0" />
+      <point x="-65.25" y="-116.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Combat.Insect.InsectType" target="za.ac.mandela.WRPV301.Capstone.Combat.Insect.InsectSize">
+      <point x="-114.79999999999927" y="-182.0" />
+      <point x="12164.82607849214" y="8913.0" />
+      <point x="12169.47245871303" y="8913.0" />
+      <point x="12169.47245871303" y="8360.0" />
+      <point x="12189.09745871303" y="8360.0" />
+      <point x="-73.60000000000036" y="93.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Combat.Ghost.GhostType" target="za.ac.mandela.WRPV301.Capstone.Map.Location.Room">
+      <point x="-76.66666666666697" y="182.0" />
+      <point x="7859.612599978976" y="9542.0" />
+      <point x="7927.862599978975" y="9542.0" />
+      <point x="7927.862599978975" y="10147.0" />
+      <point x="11339.36427390127" y="10147.0" />
+      <point x="-54.70833333333394" y="-193.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.RareWeapon" target="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.RareWeapon.RareAdjective">
+      <point x="21.625" y="-61.5" />
+      <point x="6928.992109502522" y="4254.0" />
+      <point x="7032.650672026001" y="4254.0" />
+      <point x="-62.25" y="126.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Launcher" target="za.ac.mandela.WRPV301.Capstone.Main">
+      <point x="67.0" y="148.5" />
+      <point x="3747.4236058107313" y="11180.0" />
+      <point x="3741.5486058107313" y="11180.0" />
+      <point x="37.25" y="-27.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.Location.Room" target="za.ac.mandela.WRPV301.Capstone.Combat.Ghost.GhostType">
+      <point x="-46.29166666666606" y="-193.0" />
+      <point x="11347.780940567938" y="10137.0" />
+      <point x="7936.279266645643" y="10137.0" />
+      <point x="0.0" y="182.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Launcher" target="za.ac.mandela.WRPV301.Capstone.Util.Utils">
+      <point x="-40.19999999999982" y="-148.5" />
+      <point x="3640.2236058107314" y="10753.0" />
+      <point x="1115.7718390804594" y="10753.0" />
+      <point x="1115.7718390804594" y="399.0" />
+      <point x="5096.779150020968" y="399.0" />
+      <point x="-115.93103448275906" y="104.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.Location.Passage" target="za.ac.mandela.WRPV301.Capstone.Map.Location.MapLocation">
+      <point x="0.0" y="50.0" />
+      <point x="5494.310184503726" y="1962.0" />
+      <point x="5538.960184503727" y="1962.0" />
+      <point x="-23.399999999999636" y="-248.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Util.FileIO" target="za.ac.mandela.WRPV301.Capstone.Map.MapData.SerializableMapData">
+      <point x="-94.875" y="-82.0" />
+      <point x="3715.0828833120463" y="9512.0" />
+      <point x="3626.624549978713" y="9512.0" />
+      <point x="3626.624549978713" y="6662.0" />
+      <point x="4609.212242174366" y="6662.0" />
+      <point x="4609.212242174366" y="5203.0" />
+      <point x="4486.14589878944" y="5203.0" />
+      <point x="-270.0" y="83.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.RareWeapon" target="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.Weapon">
+      <point x="151.375" y="-61.5" />
+      <point x="7058.742109502522" y="4284.0" />
+      <point x="7869.650672026001" y="4284.0" />
+      <point x="-151.25" y="182.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Combat.Humanoid" target="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.EpicWeapon">
+      <point x="-89.5" y="-204.5" />
+      <point x="6872.666832408926" y="8893.0" />
+      <point x="3168.7708987894403" y="8893.0" />
+      <point x="0.0" y="149.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.Access.Lockable.Lock.Key" target="za.ac.mandela.WRPV301.Capstone.Map.Access.Lockable.Lock.Key.Material">
+      <point x="-6.85714285714289" y="-116.5" />
+      <point x="1066.5928571428567" y="11100.0" />
+      <point x="1036.7833333333338" y="11100.0" />
+      <point x="-73.33333333333326" y="137.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.Armour.CrudeArmour.CrudeMaterial" target="za.ac.mandela.WRPV301.Capstone.Item.Player.Armour.CrudeArmour">
+      <point x="63.0" y="126.5" />
+      <point x="11648.047617154627" y="4524.0" />
+      <point x="11221.540672710184" y="4524.0" />
+      <point x="145.6875" y="-50.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.UI.GameController" target="za.ac.mandela.WRPV301.Capstone.Util.FileIO">
+      <point x="-47.11764705882342" y="-346.5" />
+      <point x="6485.062743346623" y="12395.0" />
+      <point x="3569.4236058107313" y="12395.0" />
+      <point x="3569.4236058107313" y="10267.0" />
+      <point x="3708.7578833120465" y="10267.0" />
+      <point x="-101.19999999999982" y="82.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.RareWeapon.RareAdjective" target="za.ac.mandela.WRPV301.Capstone.Util.Utils">
+      <point x="-62.25" y="-126.5" />
+      <point x="7032.650672026001" y="3479.0" />
+      <point x="6941.441928183636" y="3479.0" />
+      <point x="6941.441928183636" y="539.0" />
+      <point x="5249.468805193383" y="539.0" />
+      <point x="36.7586206896558" y="104.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Combat.Humanoid" target="za.ac.mandela.WRPV301.Capstone.Combat.Enemy">
+      <point x="89.5" y="204.5" />
+      <point x="7051.666832408926" y="9452.0" />
+      <point x="11702.463578492141" y="9452.0" />
+      <point x="-70.39999999999964" y="-237.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.Location.MapLocation.Lighting" target="za.ac.mandela.WRPV301.Capstone.Map.Location.MapLocation">
+      <point x="-44.19999999999982" y="137.5" />
+      <point x="5286.6101845037265" y="1427.0" />
+      <point x="5319.810184503726" y="1427.0" />
+      <point x="5319.810184503726" y="2002.0" />
+      <point x="5476.560184503725" y="2002.0" />
+      <point x="-85.80000000000018" y="-248.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Room.HealthChest" target="za.ac.mandela.WRPV301.Capstone.Item.Room.RoomItem">
+      <point x="45.0" y="-116.5" />
+      <point x="13622.447458713032" y="7557.0" />
+      <point x="13830.233172998745" y="7557.0" />
+      <point x="13830.233172998745" y="4484.0" />
+      <point x="13818.758172998747" y="4484.0" />
+      <point x="7.399999999999636" y="38.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.Weapon.WeaponType" target="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.Weapon">
+      <point x="70.28571428571468" y="170.5" />
+      <point x="7886.894410694203" y="3489.0" />
+      <point x="7924.650672026001" y="3489.0" />
+      <point x="-96.25" y="-182.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Util.InputParser" target="za.ac.mandela.WRPV301.Capstone.Action.Describable">
+      <point x="0.0" y="-115.5" />
+      <point x="14122.358172998745" y="7557.0" />
+      <point x="14102.18262611119" y="7557.0" />
+      <point x="14102.18262611119" y="1457.0" />
+      <point x="13429.411231301761" y="1457.0" />
+      <point x="85.70833333333394" y="94.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Combat.Enemy" target="za.ac.mandela.WRPV301.Capstone.Event.ConsoleEvent">
+      <point x="-17.600000000000364" y="-237.5" />
+      <point x="11755.26357849214" y="9392.0" />
+      <point x="8352.471011679425" y="9392.0" />
+      <point x="8352.471011679425" y="6902.0" />
+      <point x="10376.040672710184" y="6902.0" />
+      <point x="10376.040672710184" y="1042.0" />
+      <point x="10089.441455029179" y="1042.0" />
+      <point x="8.25" y="94.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.MapData" target="za.ac.mandela.WRPV301.Capstone.Map.Access.Lockable">
+      <point x="-227.95454545454504" y="-589.5" />
+      <point x="4686.757696719822" y="5173.0" />
+      <point x="3137.7708987894403" y="5173.0" />
+      <point x="3137.7708987894403" y="3729.0" />
+      <point x="2542.7090350812277" y="3729.0" />
+      <point x="2542.7090350812277" y="2042.0" />
+      <point x="2629.4039576802506" y="2042.0" />
+      <point x="0.0" y="182.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Combat.Enemy" target="za.ac.mandela.WRPV301.Capstone.Combat.Combatant">
+      <point x="70.39999999999964" y="-237.5" />
+      <point x="11843.26357849214" y="9512.0" />
+      <point x="12759.772458713029" y="9512.0" />
+      <point x="12759.772458713029" y="5133.0" />
+      <point x="12767.48495871303" y="5133.0" />
+      <point x="71.5625" y="93.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.PlayerItem" target="za.ac.mandela.WRPV301.Capstone.Game">
+      <point x="-77.07142857142935" y="-93.5" />
+      <point x="11484.501178663175" y="10753.0" />
+      <point x="6405.04530635306" y="10753.0" />
+      <point x="6405.04530635306" y="7617.0" />
+      <point x="6470.8044756292675" y="7617.0" />
+      <point x="-17.636363636363967" y="137.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Util.ResourceMapping" target="za.ac.mandela.WRPV301.Capstone.Main">
+      <point x="-137.25" y="-226.5" />
+      <point x="8854.28973166285" y="11558.0" />
+      <point x="3753.965272477398" y="11558.0" />
+      <point x="49.666666666666515" y="27.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.Armour.CommonArmour.CommonAdjective" target="za.ac.mandela.WRPV301.Capstone.Item.Player.Armour.ArmourAdjective">
+      <point x="69.25" y="-126.5" />
+      <point x="9037.790672710184" y="3659.0" />
+      <point x="10451.415672710184" y="3659.0" />
+      <point x="-73.5" y="15.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.PlayerItem" target="za.ac.mandela.WRPV301.Capstone.Map.Location.Room">
+      <point x="-41.5" y="-93.5" />
+      <point x="11520.072607234604" y="10723.0" />
+      <point x="11356.197607234604" y="10723.0" />
+      <point x="-37.875" y="193.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Player" target="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.Weapon">
+      <point x="-84.5" y="-204.0" />
+      <point x="11386.353172710184" y="5003.0" />
+      <point x="8210.89719980378" y="5003.0" />
+      <point x="8210.89719980378" y="4274.0" />
+      <point x="8144.650672026001" y="4274.0" />
+      <point x="123.75" y="182.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Room.Crown" target="za.ac.mandela.WRPV301.Capstone.Map.Location.Room">
+      <point x="0.0" y="71.5" />
+      <point x="13413.572458713032" y="5153.0" />
+      <point x="13435.030792046364" y="5153.0" />
+      <point x="13435.030792046364" y="10177.0" />
+      <point x="11465.61427390127" y="10177.0" />
+      <point x="71.54166666666606" y="-193.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.Access.Lockable" target="za.ac.mandela.WRPV301.Capstone.Util.Utils">
+      <point x="32.0" y="-182.5" />
+      <point x="2661.4039576802506" y="1407.0" />
+      <point x="2759.0706243469167" y="1407.0" />
+      <point x="2759.0706243469167" y="549.0" />
+      <point x="5181.6067362278645" y="549.0" />
+      <point x="-31.10344827586232" y="104.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Player" target="za.ac.mandela.WRPV301.Capstone.Item.Player.Armour.Armour">
+      <point x="-9.388888888888687" y="-204.0" />
+      <point x="11461.464283821295" y="5143.0" />
+      <point x="11465.353172710184" y="5143.0" />
+      <point x="11465.353172710184" y="4504.0" />
+      <point x="11401.422617154627" y="4504.0" />
+      <point x="112.875" y="138.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.Location.Room" target="za.ac.mandela.WRPV301.Capstone.Action.Action">
+      <point x="147.29166666666606" y="-193.0" />
+      <point x="11541.36427390127" y="10277.0" />
+      <point x="14392.254006332078" y="10277.0" />
+      <point x="14392.254006332078" y="569.0" />
+      <point x="14364.579006332078" y="569.0" />
+      <point x="183.39999999999964" y="149.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.Access.Accessway" target="za.ac.mandela.WRPV301.Capstone.Event.ConsoleEvent">
+      <point x="100.15909090909099" y="-160.5" />
+      <point x="4330.804989698531" y="3509.0" />
+      <point x="4946.916787628912" y="3509.0" />
+      <point x="4946.916787628912" y="2809.0" />
+      <point x="9330.145225950251" y="2809.0" />
+      <point x="9330.145225950251" y="1002.0" />
+      <point x="10006.941455029179" y="1002.0" />
+      <point x="-74.25" y="94.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.RareWeapon.RareAdjective" target="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.WeaponAdjective">
+      <point x="62.25" y="-126.5" />
+      <point x="7157.150672026001" y="3599.0" />
+      <point x="8672.540672710184" y="3599.0" />
+      <point x="-52.5" y="15.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Event.LocationChangeEvent" target="za.ac.mandela.WRPV301.Capstone.Map.Location.MapLocation">
+      <point x="61.5" y="50.0" />
+      <point x="4424.1101845037265" y="2032.0" />
+      <point x="5429.760184503726" y="2032.0" />
+      <point x="-132.60000000000036" y="-248.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.Armour.RareArmour.RareAdjective" target="za.ac.mandela.WRPV301.Capstone.Item.Player.Armour.ArmourAdjective">
+      <point x="62.25" y="-126.5" />
+      <point x="9605.790672710184" y="3669.0" />
+      <point x="10472.415672710184" y="3669.0" />
+      <point x="-52.5" y="15.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.Weapon" target="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.WeaponMaterial">
+      <point x="-19.25" y="-182.5" />
+      <point x="8001.650672026001" y="3559.0" />
+      <point x="8544.38550029639" y="3559.0" />
+      <point x="10.0" y="15.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.UI.CanvasManager" target="za.ac.mandela.WRPV301.Capstone.Map.Location.MapLocation">
+      <point x="20.199999999999818" y="-303.5" />
+      <point x="1880.8578761755489" y="11608.0" />
+      <point x="2461.2708987894403" y="11608.0" />
+      <point x="2461.2708987894403" y="9552.0" />
+      <point x="2488.7708987894403" y="9552.0" />
+      <point x="2488.7708987894403" y="6582.0" />
+      <point x="3060.7708987894403" y="6582.0" />
+      <point x="3060.7708987894403" y="3799.0" />
+      <point x="3297.833454295579" y="3799.0" />
+      <point x="3297.833454295579" y="2629.0" />
+      <point x="5413.1427931993785" y="2629.0" />
+      <point x="-149.21739130434798" y="248.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.RareWeapon.RareMaterial" target="za.ac.mandela.WRPV301.Capstone.Util.Utils">
+      <point x="-60.75" y="-126.5" />
+      <point x="6692.9893419767395" y="559.0" />
+      <point x="5238.158460365796" y="559.0" />
+      <point x="25.44827586206884" y="104.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Player" target="za.ac.mandela.WRPV301.Capstone.Item.Player.HealthPotion">
+      <point x="103.27777777777737" y="-204.0" />
+      <point x="11574.130950487961" y="5163.0" />
+      <point x="13577.804601570177" y="5163.0" />
+      <point x="-96.42857142857065" y="204.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Combat.Enemy" target="za.ac.mandela.WRPV301.Capstone.Game">
+      <point x="-88.0" y="-237.5" />
+      <point x="11684.863578492139" y="9472.0" />
+      <point x="6542.190839265631" y="9472.0" />
+      <point x="6542.190839265631" y="7617.0" />
+      <point x="6506.077202901995" y="7617.0" />
+      <point x="17.636363636363967" y="137.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.Access.Accessway" target="za.ac.mandela.WRPV301.Capstone.Map.Access.Door">
+      <point x="-53.93181818181802" y="-160.5" />
+      <point x="4176.714080607622" y="3439.0" />
+      <point x="2023.3682433945369" y="3439.0" />
+      <point x="2023.3682433945369" y="1972.0" />
+      <point x="2153.868243394537" y="1972.0" />
+      <point x="2153.868243394537" y="1497.0" />
+      <point x="2337.118243394537" y="1497.0" />
+      <point x="-58.75" y="83.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Util.ResourceMapping" target="za.ac.mandela.WRPV301.Capstone.Player">
+      <point x="15.25" y="-226.5" />
+      <point x="9006.78973166285" y="11648.0" />
+      <point x="9118.127261679425" y="11648.0" />
+      <point x="9118.127261679425" y="7587.0" />
+      <point x="11054.320737996008" y="7587.0" />
+      <point x="11054.320737996008" y="7032.0" />
+      <point x="11470.853172710184" y="7032.0" />
+      <point x="0.0" y="204.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.Access.Gate" target="za.ac.mandela.WRPV301.Capstone.Map.Access.Lockable">
+      <point x="0.0" y="-61.0" />
+      <point x="2669.7090350812277" y="2869.0" />
+      <point x="2691.9947493669415" y="2869.0" />
+      <point x="2691.9947493669415" y="2042.0" />
+      <point x="2652.6766849529786" y="2042.0" />
+      <point x="23.272727272727934" y="182.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.Location.MapLocation" target="za.ac.mandela.WRPV301.Capstone.Action.Actionable">
+      <point x="148.19999999999982" y="-248.5" />
+      <point x="5710.560184503725" y="2042.0" />
+      <point x="14196.428459444523" y="2042.0" />
+      <point x="14196.428459444523" y="1082.0" />
+      <point x="14178.428459444523" y="1082.0" />
+      <point x="-58.399999999999636" y="50.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.Access.Lockable.Lock" target="za.ac.mandela.WRPV301.Capstone.Map.Access.Lockable.Lock.Key">
+      <point x="-69.60000000000036" y="116.0" />
+      <point x="2051.2682433945365" y="2869.0" />
+      <point x="2071.701806236947" y="2869.0" />
+      <point x="2071.701806236947" y="3769.0" />
+      <point x="1544.9688181071797" y="3769.0" />
+      <point x="1544.9688181071797" y="7092.0" />
+      <point x="1414.7718390804594" y="7092.0" />
+      <point x="1414.7718390804594" y="9552.0" />
+      <point x="1360.1270178437508" y="9552.0" />
+      <point x="1360.1270178437508" y="11140.0" />
+      <point x="1107.7357142857136" y="11140.0" />
+      <point x="34.285714285713766" y="-116.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.Access.Lockable" target="za.ac.mandela.WRPV301.Capstone.Map.Access.Door">
+      <point x="-117.33333333333303" y="-182.5" />
+      <point x="2512.0706243469176" y="1507.0" />
+      <point x="2415.451576727871" y="1507.0" />
+      <point x="19.583333333333485" y="83.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.Access.Door" target="za.ac.mandela.WRPV301.Capstone.Map.Access.Accessway">
+      <point x="-97.91666666666606" y="83.0" />
+      <point x="2297.951576727871" y="1487.0" />
+      <point x="2142.868243394537" y="1487.0" />
+      <point x="2142.868243394537" y="1962.0" />
+      <point x="2012.3682433945369" y="1962.0" />
+      <point x="2012.3682433945369" y="3449.0" />
+      <point x="4161.304989698531" y="3449.0" />
+      <point x="-69.34090909090901" y="-160.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.Access.Lockable" target="za.ac.mandela.WRPV301.Capstone.Event.AccesswayChangeEvent">
+      <point x="74.66666666666652" y="-182.5" />
+      <point x="2704.0706243469167" y="1427.0" />
+      <point x="2877.1105502327437" y="1427.0" />
+      <point x="-101.66666666666652" y="50.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.Armour.CrudeArmour.CrudeAdjective" target="za.ac.mandela.WRPV301.Capstone.Util.Utils">
+      <point x="64.5" y="-126.5" />
+      <point x="10980.040672710184" y="3749.0" />
+      <point x="11199.347812157148" y="3749.0" />
+      <point x="11199.347812157148" y="2849.0" />
+      <point x="11398.192372901754" y="2849.0" />
+      <point x="11398.192372901754" y="399.0" />
+      <point x="5328.641218986486" y="399.0" />
+      <point x="115.93103448275906" y="104.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Combat.Enemy" target="za.ac.mandela.WRPV301.Capstone.Combat.Humanoid">
+      <point x="-79.20000000000073" y="-237.5" />
+      <point x="11693.663578492138" y="9462.0" />
+      <point x="6992.00016574226" y="9462.0" />
+      <point x="29.83333333333303" y="204.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.UI.CanvasManager" target="za.ac.mandela.WRPV301.Capstone.Event.PlayerChangeEvent">
+      <point x="-60.600000000000364" y="-303.5" />
+      <point x="1800.0578761755487" y="11678.0" />
+      <point x="537.6166666666668" y="11678.0" />
+      <point x="537.6166666666668" y="5203.0" />
+      <point x="683.1742033871415" y="5203.0" />
+      <point x="-36.80000000000018" y="27.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.EpicWeapon" target="za.ac.mandela.WRPV301.Capstone.Util.Utils">
+      <point x="-173.18181818181802" y="-149.5" />
+      <point x="2995.5890806076222" y="8420.0" />
+      <point x="1437.0821839080454" y="8420.0" />
+      <point x="1437.0821839080454" y="449.0" />
+      <point x="5125.055012089933" y="449.0" />
+      <point x="-87.65517241379348" y="104.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.UI.CanvasManager" target="za.ac.mandela.WRPV301.Capstone.Map.Access.Lockable">
+      <point x="-40.399999999999636" y="-303.5" />
+      <point x="1820.2578761755494" y="11578.0" />
+      <point x="1879.8145674699672" y="11578.0" />
+      <point x="1879.8145674699672" y="9512.0" />
+      <point x="1983.0473260906565" y="9512.0" />
+      <point x="1983.0473260906565" y="6512.0" />
+      <point x="2121.0473260906565" y="6512.0" />
+      <point x="2121.0473260906565" y="3809.0" />
+      <point x="2466.7083987894403" y="3809.0" />
+      <point x="2466.7083987894403" y="2022.0" />
+      <point x="2582.8585031347966" y="2022.0" />
+      <point x="-46.54545454545405" y="182.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.Access.Lockable.Lock.Key" target="za.ac.mandela.WRPV301.Capstone.Map.Access.Lockable.Lock.Key.Quality">
+      <point x="-89.14285714285711" y="-116.5" />
+      <point x="984.3071428571429" y="11160.0" />
+      <point x="583.9499999999998" y="11160.0" />
+      <point x="-71.66666666666663" y="137.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Room.HealthChest" target="za.ac.mandela.WRPV301.Capstone.Map.Location.Room">
+      <point x="-75.0" y="116.5" />
+      <point x="13502.447458713032" y="8420.0" />
+      <point x="13596.822458713032" y="8420.0" />
+      <point x="13596.822458713032" y="9542.0" />
+      <point x="13443.447458713032" y="9542.0" />
+      <point x="13443.447458713032" y="10187.0" />
+      <point x="11474.030940567938" y="10187.0" />
+      <point x="79.95833333333394" y="-193.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.Access.Lockable.Lock" target="za.ac.mandela.WRPV301.Capstone.Game">
+      <point x="34.80000000000018" y="116.0" />
+      <point x="2155.668243394537" y="2869.0" />
+      <point x="2318.9748359470295" y="2869.0" />
+      <point x="2318.9748359470295" y="3799.0" />
+      <point x="1921.9367200300503" y="3799.0" />
+      <point x="1921.9367200300503" y="6472.0" />
+      <point x="6421.753339265631" y="6472.0" />
+      <point x="-66.6875" y="-137.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Player" target="za.ac.mandela.WRPV301.Capstone.Item.Player.PlayerItem">
+      <point x="30.727272727272066" y="204.0" />
+      <point x="11501.580445437456" y="7042.0" />
+      <point x="11065.320737996008" y="7042.0" />
+      <point x="11065.320737996008" y="7597.0" />
+      <point x="9143.270118822282" y="7597.0" />
+      <point x="9143.270118822282" y="10743.0" />
+      <point x="11496.358321520318" y="10743.0" />
+      <point x="-65.21428571428623" y="-93.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.Location.Room" target="za.ac.mandela.WRPV301.Capstone.Map.Location.MapLocation.Material">
+      <point x="-88.375" y="-193.0" />
+      <point x="11305.697607234604" y="10187.0" />
+      <point x="4365.541216645379" y="10187.0" />
+      <point x="4365.541216645379" y="6732.0" />
+      <point x="6594.4893419767395" y="6732.0" />
+      <point x="6594.4893419767395" y="1417.0" />
+      <point x="5855.310184503726" y="1417.0" />
+      <point x="88.0" y="137.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Util.InputParser" target="za.ac.mandela.WRPV301.Capstone.Event.ConsoleEvent">
+      <point x="-77.60000000000036" y="-115.5" />
+      <point x="14044.758172998747" y="7407.0" />
+      <point x="11721.547617154627" y="7407.0" />
+      <point x="11721.547617154627" y="2819.0" />
+      <point x="11278.412200487961" y="2819.0" />
+      <point x="11278.412200487961" y="1002.0" />
+      <point x="10155.441455029179" y="1002.0" />
+      <point x="74.25" y="94.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Combat.Enemy" target="za.ac.mandela.WRPV301.Capstone.Item.Player.PlayerItem">
+      <point x="91.66666666666606" y="237.5" />
+      <point x="11864.530245158807" y="10117.0" />
+      <point x="11567.072607234604" y="10117.0" />
+      <point x="5.928571428570649" y="-93.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.MapData.SerializableMapData" target="za.ac.mandela.WRPV301.Capstone.Map.Location.MapLocation">
+      <point x="259.1999999999998" y="-83.0" />
+      <point x="5015.34589878944" y="4524.0" />
+      <point x="4935.916787628912" y="4524.0" />
+      <point x="4935.916787628912" y="2729.0" />
+      <point x="5548.7949671124225" y="2729.0" />
+      <point x="-13.565217391304031" y="248.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.Armour.Armour" target="za.ac.mandela.WRPV301.Capstone.Item.Player.Equippable">
+      <point x="75.25" y="-138.5" />
+      <point x="11363.797617154627" y="3799.0" />
+      <point x="13170.572458713032" y="3799.0" />
+      <point x="0.0" y="104.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.Armour.RareArmour.RareAdjective" target="za.ac.mandela.WRPV301.Capstone.Item.Player.Armour.RareArmour">
+      <point x="62.25" y="126.5" />
+      <point x="9605.790672710184" y="4304.0" />
+      <point x="10447.290672710184" y="4304.0" />
+      <point x="-101.25" y="-50.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.MapData.SerializableMapData" target="za.ac.mandela.WRPV301.Capstone.Map.MapData">
+      <point x="54.0" y="83.0" />
+      <point x="4810.14589878944" y="5103.0" />
+      <point x="4874.484969447094" y="5103.0" />
+      <point x="-40.227272727272975" y="-589.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.CommonWeapon" target="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.Weapon.WeaponType">
+      <point x="-145.60000000000036" y="-61.5" />
+      <point x="7305.515939551783" y="4234.0" />
+      <point x="6959.900672026001" y="4234.0" />
+      <point x="6959.900672026001" y="3509.0" />
+      <point x="7781.465839265631" y="3509.0" />
+      <point x="-35.14285714285688" y="170.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.MapData" target="za.ac.mandela.WRPV301.Capstone.Map.Location.MapLocation">
+      <point x="40.227272727272975" y="-589.5" />
+      <point x="4954.93951490164" y="5063.0" />
+      <point x="5090.64589878944" y="5063.0" />
+      <point x="5090.64589878944" y="2739.0" />
+      <point x="5562.3601845037265" y="2739.0" />
+      <point x="0.0" y="248.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.Armour.CrudeArmour" target="za.ac.mandela.WRPV301.Capstone.Item.Player.Armour.CrudeArmour.CrudeAdjective">
+      <point x="-104.0625" y="-50.0" />
+      <point x="10971.790672710184" y="4394.0" />
+      <point x="10851.040672710184" y="4394.0" />
+      <point x="-64.5" y="126.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.HealthPotion" target="za.ac.mandela.WRPV301.Capstone.Game">
+      <point x="-32.14285714285688" y="204.5" />
+      <point x="13642.09031585589" y="5183.0" />
+      <point x="11707.318450487961" y="5183.0" />
+      <point x="11707.318450487961" y="7092.0" />
+      <point x="6579.378339265631" y="7092.0" />
+      <point x="90.9375" y="-137.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Combat.Enemy" target="za.ac.mandela.WRPV301.Capstone.Combat.Ghost.GhostType">
+      <point x="-52.79999999999927" y="-237.5" />
+      <point x="11720.06357849214" y="9432.0" />
+      <point x="8012.9459333123095" y="9432.0" />
+      <point x="76.66666666666697" y="182.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Room.Corpse" target="za.ac.mandela.WRPV301.Capstone.Action.Actionable">
+      <point x="74.79999999999927" y="-72.0" />
+      <point x="12947.372458713031" y="7577.0" />
+      <point x="14262.428459444523" y="7577.0" />
+      <point x="14262.428459444523" y="1092.0" />
+      <point x="14266.028459444524" y="1092.0" />
+      <point x="29.200000000000728" y="50.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.Location.Room" target="za.ac.mandela.WRPV301.Capstone.Map.Location.MapLocation">
+      <point x="-105.20833333333394" y="-193.0" />
+      <point x="11288.86427390127" y="10207.0" />
+      <point x="3495.2708987894403" y="10207.0" />
+      <point x="3495.2708987894403" y="6652.0" />
+      <point x="4421.64589878944" y="6652.0" />
+      <point x="4421.64589878944" y="2699.0" />
+      <point x="5508.0993149385085" y="2699.0" />
+      <point x="-54.260869565217035" y="248.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Player" target="za.ac.mandela.WRPV301.Capstone.Game">
+      <point x="-61.45454545454595" y="204.0" />
+      <point x="11409.398627255638" y="7012.0" />
+      <point x="6567.253339265631" y="7012.0" />
+      <point x="78.8125" y="-137.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.RareWeapon.RareMaterial" target="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.WeaponMaterial">
+      <point x="60.75" y="-126.5" />
+      <point x="6814.4893419767395" y="3529.0" />
+      <point x="8484.38550029639" y="3529.0" />
+      <point x="-50.0" y="15.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.UI.GameController" target="za.ac.mandela.WRPV301.Capstone.Main">
+      <point x="-15.705882352941444" y="-346.5" />
+      <point x="6516.474508052506" y="12375.0" />
+      <point x="3704.2986058107313" y="12375.0" />
+      <point x="0.0" y="27.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Event.PlayerChangeEvent" target="za.ac.mandela.WRPV301.Capstone.Util.Utils">
+      <point x="0.0" y="-27.0" />
+      <point x="719.9742033871416" y="369.0" />
+      <point x="5079.813632779589" y="369.0" />
+      <point x="-132.89655172413768" y="104.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.Access.Accessway" target="za.ac.mandela.WRPV301.Capstone.Game">
+      <point x="-84.75" y="160.5" />
+      <point x="4145.89589878944" y="4514.0" />
+      <point x="4155.8131364396395" y="4514.0" />
+      <point x="4155.8131364396395" y="6452.0" />
+      <point x="6446.003339265631" y="6452.0" />
+      <point x="-42.4375" y="-137.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.MapData" target="za.ac.mandela.WRPV301.Capstone.Combat.Enemy">
+      <point x="49.16666666666697" y="589.5" />
+      <point x="4963.878908841034" y="6702.0" />
+      <point x="3789.3328833120463" y="6702.0" />
+      <point x="3789.3328833120463" y="9482.0" />
+      <point x="11676.06357849214" y="9482.0" />
+      <point x="-96.79999999999927" y="-237.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Combat.Enemy" target="za.ac.mandela.WRPV301.Capstone.Action.ActionBuilder">
+      <point x="61.600000000000364" y="-237.5" />
+      <point x="11834.463578492141" y="9502.0" />
+      <point x="12559.92245871303" y="9502.0" />
+      <point x="12559.92245871303" y="1082.0" />
+      <point x="12870.509147968425" y="1082.0" />
+      <point x="-34.95000000000073" y="171.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.Armour.RareArmour.RareMaterial" target="za.ac.mandela.WRPV301.Capstone.Util.Utils">
+      <point x="60.75" y="-126.5" />
+      <point x="10026.790672710184" y="3729.0" />
+      <point x="11182.192639743354" y="3729.0" />
+      <point x="11182.192639743354" y="2829.0" />
+      <point x="11301.537200487961" y="2829.0" />
+      <point x="11301.537200487961" y="419.0" />
+      <point x="5317.330874158899" y="419.0" />
+      <point x="104.62068965517301" y="104.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.CommonWeapon.CommonAdjective" target="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.CommonWeapon">
+      <point x="69.25" y="126.5" />
+      <point x="7739.150672026001" y="4264.0" />
+      <point x="7513.515939551783" y="4264.0" />
+      <point x="62.399999999999636" y="-61.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Combat.Humanoid" target="za.ac.mandela.WRPV301.Capstone.Event.ConsoleEvent">
+      <point x="29.83333333333303" y="-204.5" />
+      <point x="6992.00016574226" y="8813.0" />
+      <point x="7348.257296948674" y="8813.0" />
+      <point x="7348.257296948674" y="6862.0" />
+      <point x="9408.540672710184" y="6862.0" />
+      <point x="9408.540672710184" y="2829.0" />
+      <point x="9717.942639743354" y="2829.0" />
+      <point x="9717.942639743354" y="1022.0" />
+      <point x="10039.941455029179" y="1022.0" />
+      <point x="-41.25" y="94.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.EpicWeapon.EpicMaterial" target="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.EpicWeapon">
+      <point x="-60.5" y="148.5" />
+      <point x="3830.624549978713" y="6622.0" />
+      <point x="3084.795004524168" y="6622.0" />
+      <point x="3084.795004524168" y="8380.0" />
+      <point x="3134.134535153077" y="8380.0" />
+      <point x="-34.63636363636306" y="-149.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.CrudeWeapon.CrudeMaterial" target="za.ac.mandela.WRPV301.Capstone.Util.Utils">
+      <point x="-63.0" y="-137.5" />
+      <point x="8418.88550029639" y="469.0" />
+      <point x="5289.055012089933" y="469.0" />
+      <point x="76.34482758620743" y="104.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.MapData" target="za.ac.mandela.WRPV301.Capstone.Map.MapData.TraversalGroup">
+      <point x="147.5" y="-589.5" />
+      <point x="5062.212242174366" y="5103.0" />
+      <point x="5508.491136884678" y="5103.0" />
+      <point x="5508.491136884678" y="4524.0" />
+      <point x="5452.705422598965" y="4524.0" />
+      <point x="74.0" y="105.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Combat.Humanoid" target="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.CrudeWeapon">
+      <point x="9.944444444444343" y="-204.5" />
+      <point x="6972.111276853371" y="8843.0" />
+      <point x="6803.3991725989645" y="8843.0" />
+      <point x="6803.3991725989645" y="6842.0" />
+      <point x="8382.63550029639" y="6842.0" />
+      <point x="-99.25" y="61.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.Armour.Armour" target="za.ac.mandela.WRPV301.Capstone.Item.Player.Armour.ArmourAdjective">
+      <point x="-125.41666666666606" y="-138.5" />
+      <point x="11163.130950487961" y="3639.0" />
+      <point x="10577.415672710184" y="3639.0" />
+      <point x="52.5" y="15.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.Armour.RareArmour.RareAdjective" target="za.ac.mandela.WRPV301.Capstone.Util.Utils">
+      <point x="-62.25" y="-126.5" />
+      <point x="9481.290672710184" y="3649.0" />
+      <point x="10025.066455029179" y="3649.0" />
+      <point x="10025.066455029179" y="2799.0" />
+      <point x="9304.270225950251" y="2799.0" />
+      <point x="9304.270225950251" y="439.0" />
+      <point x="5306.020529331312" y="439.0" />
+      <point x="93.31034482758605" y="104.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.Access.Lockable.Lock.Key.Quality" target="za.ac.mandela.WRPV301.Capstone.Util.Utils">
+      <point x="0.0" y="-137.5" />
+      <point x="655.6166666666668" y="10763.0" />
+      <point x="506.66666666666697" y="10763.0" />
+      <point x="506.66666666666697" y="359.0" />
+      <point x="5074.158460365796" y="359.0" />
+      <point x="-138.55172413793116" y="104.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.Armour.CommonArmour.CommonMaterial" target="za.ac.mandela.WRPV301.Capstone.Item.Player.Armour.CommonArmour">
+      <point x="67.75" y="126.5" />
+      <point x="9330.290672710184" y="4324.0" />
+      <point x="10083.040672710184" y="4324.0" />
+      <point x="-22.0" y="-50.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.Location.Direction" target="za.ac.mandela.WRPV301.Capstone.Util.Utils">
+      <point x="-88.33333333333394" y="-215.0" />
+      <point x="3352.500120962245" y="2579.0" />
+      <point x="3205.9433125825435" y="2579.0" />
+      <point x="3205.9433125825435" y="579.0" />
+      <point x="5198.572253469243" y="579.0" />
+      <point x="-14.13793103448279" y="104.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.Location.MapLocation" target="za.ac.mandela.WRPV301.Capstone.Map.Location.Passage">
+      <point x="-39.0" y="-248.5" />
+      <point x="5523.3601845037265" y="1972.0" />
+      <point x="5399.643517837059" y="1972.0" />
+      <point x="-94.66666666666697" y="50.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.Location.Room" target="za.ac.mandela.WRPV301.Capstone.Combat.Ghost">
+      <point x="-37.875" y="-193.0" />
+      <point x="11356.197607234604" y="10127.0" />
+      <point x="8226.562678346092" y="10127.0" />
+      <point x="8226.562678346092" y="8893.0" />
+      <point x="8171.016466224879" y="8893.0" />
+      <point x="35.54545454545496" y="171.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.UI.GameController" target="za.ac.mandela.WRPV301.Capstone.UI.CanvasManager">
+      <point x="-78.5294117647054" y="-346.5" />
+      <point x="6453.650978640742" y="12415.0" />
+      <point x="1784.907876175549" y="12415.0" />
+      <point x="-75.75" y="303.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Util.ResourceMapping" target="za.ac.mandela.WRPV301.Capstone.Item.Room.Crown">
+      <point x="106.75" y="-226.5" />
+      <point x="9098.28973166285" y="11698.0" />
+      <point x="13454.447458713032" y="11698.0" />
+      <point x="13454.447458713032" y="5153.0" />
+      <point x="13475.905792046364" y="5153.0" />
+      <point x="62.33333333333394" y="71.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.HealthPotion" target="za.ac.mandela.WRPV301.Capstone.Map.Location.Room">
+      <point x="32.14285714285688" y="204.5" />
+      <point x="13706.376030141604" y="5183.0" />
+      <point x="13745.447458713032" y="5183.0" />
+      <point x="13745.447458713032" y="9542.0" />
+      <point x="13699.447458713032" y="9542.0" />
+      <point x="13699.447458713032" y="10207.0" />
+      <point x="11490.86427390127" y="10207.0" />
+      <point x="96.79166666666606" y="-193.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.Location.MapLocation" target="za.ac.mandela.WRPV301.Capstone.Map.Location.Room">
+      <point x="-94.95652173913004" y="248.5" />
+      <point x="5467.403662764596" y="2669.0" />
+      <point x="3599.0417876289125" y="2669.0" />
+      <point x="3599.0417876289125" y="6612.0" />
+      <point x="2664.7708987894403" y="6612.0" />
+      <point x="2664.7708987894403" y="10217.0" />
+      <point x="11280.447607234604" y="10217.0" />
+      <point x="-113.625" y="-193.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.Armour.CommonArmour.CommonAdjective" target="za.ac.mandela.WRPV301.Capstone.Util.Utils">
+      <point x="-69.25" y="-126.5" />
+      <point x="8899.290672710184" y="3569.0" />
+      <point x="8624.88550029639" y="3569.0" />
+      <point x="8624.88550029639" y="459.0" />
+      <point x="5294.710184503727" y="459.0" />
+      <point x="82.0" y="104.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.Access.Gate" target="za.ac.mandela.WRPV301.Capstone.Map.Access.Lockable.Lock">
+      <point x="-99.85714285714266" y="-61.0" />
+      <point x="2569.8518922240846" y="2859.0" />
+      <point x="2190.4682433945372" y="2859.0" />
+      <point x="69.59999999999991" y="116.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.Location.Room" target="za.ac.mandela.WRPV301.Capstone.Combat.Insect">
+      <point x="46.29166666666606" y="-193.0" />
+      <point x="11440.36427390127" y="10147.0" />
+      <point x="12488.42245871303" y="10147.0" />
+      <point x="12488.42245871303" y="8883.0" />
+      <point x="12433.089125379694" y="8883.0" />
+      <point x="66.66666666666606" y="160.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.RareWeapon" target="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.RareWeapon.RareMaterial">
+      <point x="-108.125" y="-61.5" />
+      <point x="6799.242109502522" y="4514.0" />
+      <point x="6692.9893419767395" y="4514.0" />
+      <point x="-60.75" y="126.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Combat.Humanoid" target="za.ac.mandela.WRPV301.Capstone.Map.Location.Room">
+      <point x="-89.5" y="204.5" />
+      <point x="6872.666832408926" y="9542.0" />
+      <point x="6809.333499075593" y="9542.0" />
+      <point x="6809.333499075593" y="10167.0" />
+      <point x="11322.530940567938" y="10167.0" />
+      <point x="-71.54166666666606" y="-193.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.Armour.CrudeArmour" target="za.ac.mandela.WRPV301.Capstone.Item.Player.Armour.CrudeArmour.CrudeMaterial">
+      <point x="104.0625" y="-50.0" />
+      <point x="11179.915672710184" y="4514.0" />
+      <point x="11522.047617154627" y="4514.0" />
+      <point x="-63.0" y="126.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Combat.Fight" target="za.ac.mandela.WRPV301.Capstone.Action.Actionable">
+      <point x="120.21428571428623" y="-138.5" />
+      <point x="11870.923848681721" y="7567.0" />
+      <point x="14251.428459444523" y="7567.0" />
+      <point x="14.600000000000364" y="50.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.Location.Room" target="za.ac.mandela.WRPV301.Capstone.Item.Room.HealthChest">
+      <point x="88.375" y="-193.0" />
+      <point x="11482.447607234604" y="10197.0" />
+      <point x="13605.2391253797" y="10197.0" />
+      <point x="13605.2391253797" y="8410.0" />
+      <point x="13577.447458713032" y="8410.0" />
+      <point x="0.0" y="116.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Combat.Insect" target="za.ac.mandela.WRPV301.Capstone.Util.Utils">
+      <point x="18.75" y="-160.5" />
+      <point x="12385.17245871303" y="329.0" />
+      <point x="5368.227425883037" y="329.0" />
+      <point x="155.5172413793107" y="104.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.Equippable" target="za.ac.mandela.WRPV301.Capstone.Action.Describable">
+      <point x="0.0" y="-104.5" />
+      <point x="13170.572458713032" y="1487.0" />
+      <point x="13335.911231301761" y="1487.0" />
+      <point x="-7.79166666666606" y="94.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Combat.Fight" target="za.ac.mandela.WRPV301.Capstone.Combat.Enemy">
+      <point x="0.0" y="138.5" />
+      <point x="11750.709562967435" y="8370.0" />
+      <point x="11701.971863474933" y="8370.0" />
+      <point x="11701.971863474933" y="9382.0" />
+      <point x="11764.06357849214" y="9382.0" />
+      <point x="-8.799999999999272" y="-237.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.Weapon" target="za.ac.mandela.WRPV301.Capstone.Util.Utils">
+      <point x="-57.75" y="-182.5" />
+      <point x="7963.150672026001" y="3509.0" />
+      <point x="7950.108696408488" y="3509.0" />
+      <point x="7950.108696408488" y="499.0" />
+      <point x="5272.089494848555" y="499.0" />
+      <point x="59.3793103448279" y="104.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.UI.CanvasManager" target="za.ac.mandela.WRPV301.Capstone.Util.Utils.XYWH">
+      <point x="-101.0" y="-303.5" />
+      <point x="1759.657876175549" y="11698.0" />
+      <point x="238.0" y="11698.0" />
+      <point x="0.0" y="149.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.Location.Direction" target="za.ac.mandela.WRPV301.Capstone.Map.Location.MapLocation">
+      <point x="0.0" y="-215.0" />
+      <point x="3440.833454295579" y="2639.0" />
+      <point x="5426.7080105906825" y="2639.0" />
+      <point x="-135.65217391304304" y="248.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Combat.Ghost.GhostType" target="za.ac.mandela.WRPV301.Capstone.Combat.Ghost.GhostAdjective">
+      <point x="-95.83333333333303" y="-182.0" />
+      <point x="7840.4459333123095" y="8823.0" />
+      <point x="7718.304345012758" y="8823.0" />
+      <point x="7718.304345012758" y="8430.0" />
+      <point x="7618.096011679425" y="8430.0" />
+      <point x="-96.375" y="159.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Combat.Ghost" target="za.ac.mandela.WRPV301.Capstone.Map.Location.Room">
+      <point x="71.09090909090992" y="171.5" />
+      <point x="8206.561920770335" y="8883.0" />
+      <point x="8234.979345012758" y="8883.0" />
+      <point x="8234.979345012758" y="10117.0" />
+      <point x="11364.61427390127" y="10117.0" />
+      <point x="-29.45833333333394" y="-193.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.CrudeWeapon" target="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.CrudeWeapon.CrudeAdjective">
+      <point x="138.95000000000073" y="-61.5" />
+      <point x="8620.83550029639" y="4364.0" />
+      <point x="10172.040672710184" y="4364.0" />
+      <point x="-64.5" y="126.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.Location.MapLocation" target="za.ac.mandela.WRPV301.Capstone.Event.ConsoleEvent">
+      <point x="70.19999999999982" y="-248.5" />
+      <point x="5632.560184503725" y="1992.0" />
+      <point x="5789.310184503726" y="1992.0" />
+      <point x="5789.310184503726" y="1427.0" />
+      <point x="9319.145225950251" y="1427.0" />
+      <point x="9319.145225950251" y="992.0" />
+      <point x="9990.441455029179" y="992.0" />
+      <point x="-90.75" y="94.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.UI.GameController" target="za.ac.mandela.WRPV301.Capstone.Event.MapChangeEvent">
+      <point x="-109.94117647058829" y="-346.5" />
+      <point x="6422.239213934859" y="12435.0" />
+      <point x="384.0" y="12435.0" />
+      <point x="384.0" y="7092.0" />
+      <point x="362.83333333333394" y="7092.0" />
+      <point x="-53.33333333333303" y="27.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.CrudeWeapon" target="za.ac.mandela.WRPV301.Capstone.Util.Utils">
+      <point x="-59.54999999999927" y="-61.5" />
+      <point x="8422.33550029639" y="4234.0" />
+      <point x="8290.388086503286" y="4234.0" />
+      <point x="8290.388086503286" y="479.0" />
+      <point x="5283.39983967614" y="479.0" />
+      <point x="70.68965517241395" y="104.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Util.FileIO.XMLResult" target="za.ac.mandela.WRPV301.Capstone.Util.FileIO">
+      <point x="-72.33333333333348" y="-61.0" />
+      <point x="3838.19121664538" y="10277.0" />
+      <point x="3809.9578833120463" y="10277.0" />
+      <point x="0.0" y="82.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.MapData.TraversalGroupManager" target="za.ac.mandela.WRPV301.Capstone.Event.GenerationEvent">
+      <point x="-153.85714285714312" y="-126.5" />
+      <point x="5126.788755932297" y="4504.0" />
+      <point x="1703.8021514405127" y="4504.0" />
+      <point x="59.33333333333326" y="50.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.MapData" target="za.ac.mandela.WRPV301.Capstone.Map.MapData.TraversalGroupManager">
+      <point x="67.04545454545496" y="-589.5" />
+      <point x="4981.757696719822" y="5073.0" />
+      <point x="5160.979232122773" y="5073.0" />
+      <point x="-119.66666666666697" y="126.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Room.HealthChest" target="za.ac.mandela.WRPV301.Capstone.Action.Actionable">
+      <point x="90.0" y="-116.5" />
+      <point x="13667.447458713032" y="7587.0" />
+      <point x="14273.428459444523" y="7587.0" />
+      <point x="14273.428459444523" y="1082.0" />
+      <point x="14280.628459444522" y="1082.0" />
+      <point x="43.79999999999927" y="50.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Map.Access.Lockable" target="za.ac.mandela.WRPV301.Capstone.Map.Access.Lockable.Lock">
+      <point x="-93.09090909090901" y="182.5" />
+      <point x="2536.3130485893416" y="2002.0" />
+      <point x="2142.618243394537" y="2002.0" />
+      <point x="21.75" y="-116.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.CommonWeapon" target="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.WeaponAdjective">
+      <point x="187.19999999999982" y="-61.5" />
+      <point x="7638.315939551783" y="4334.0" />
+      <point x="8674.963086503287" y="4334.0" />
+      <point x="8674.963086503287" y="3639.0" />
+      <point x="8756.540672710184" y="3639.0" />
+      <point x="31.5" y="15.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.Armour.CommonArmour" target="za.ac.mandela.WRPV301.Capstone.Item.Player.Armour.ArmourMaterial">
+      <point x="66.0" y="-50.0" />
+      <point x="10171.040672710184" y="4394.0" />
+      <point x="10743.040672710184" y="4394.0" />
+      <point x="10743.040672710184" y="3699.0" />
+      <point x="11059.203867154627" y="3699.0" />
+      <point x="-30.0" y="15.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Util.InputParser" target="za.ac.mandela.WRPV301.Capstone.Action.Actionable">
+      <point x="77.60000000000036" y="-115.5" />
+      <point x="14199.958172998748" y="7597.0" />
+      <point x="14284.428459444523" y="7597.0" />
+      <point x="14284.428459444523" y="1092.0" />
+      <point x="14295.228459444523" y="1092.0" />
+      <point x="58.399999999999636" y="50.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Combat.Ghost" target="za.ac.mandela.WRPV301.Capstone.Event.ConsoleEvent">
+      <point x="0.0" y="-171.5" />
+      <point x="8135.471011679425" y="8390.0" />
+      <point x="7864.471011679425" y="8390.0" />
+      <point x="7864.471011679425" y="6882.0" />
+      <point x="9834.040672710184" y="6882.0" />
+      <point x="9834.040672710184" y="2849.0" />
+      <point x="10026.067639743354" y="2849.0" />
+      <point x="10026.067639743354" y="1042.0" />
+      <point x="10072.941455029179" y="1042.0" />
+      <point x="-8.25" y="94.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.EpicWeapon.EpicAdjective" target="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.WeaponAdjective">
+      <point x="62.0" y="-149.5" />
+      <point x="5744.705422598963" y="3589.0" />
+      <point x="8651.540672710184" y="3589.0" />
+      <point x="-73.5" y="15.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Room.Crown" target="za.ac.mandela.WRPV301.Capstone.Item.Room.RoomItem">
+      <point x="46.75" y="-71.5" />
+      <point x="13460.322458713032" y="4514.0" />
+      <point x="13759.558172998746" y="4514.0" />
+      <point x="-51.79999999999927" y="38.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.Armour.CommonArmour.CommonMaterial" target="za.ac.mandela.WRPV301.Capstone.Item.Player.Armour.ArmourMaterial">
+      <point x="67.75" y="-126.5" />
+      <point x="9330.290672710184" y="3679.0" />
+      <point x="11019.203867154627" y="3679.0" />
+      <point x="-70.0" y="15.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Combat.Fight" target="za.ac.mandela.WRPV301.Capstone.Action.Action">
+      <point x="142.07142857142935" y="-138.5" />
+      <point x="11892.780991538864" y="7607.0" />
+      <point x="14370.254006332078" y="7607.0" />
+      <point x="14370.254006332078" y="589.0" />
+      <point x="14259.779006332079" y="589.0" />
+      <point x="78.60000000000036" y="149.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.Armour.CrudeArmour" target="za.ac.mandela.WRPV301.Capstone.Item.Player.Armour.ArmourAdjective">
+      <point x="-145.6875" y="-50.0" />
+      <point x="10930.165672710184" y="4404.0" />
+      <point x="10765.040672710184" y="4404.0" />
+      <point x="10765.040672710184" y="3659.0" />
+      <point x="10535.415672710184" y="3659.0" />
+      <point x="10.5" y="15.0" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Event.LocationChangeEvent" target="za.ac.mandela.WRPV301.Capstone.Util.Utils">
+      <point x="0.0" y="-50.0" />
+      <point x="4362.6101845037265" y="599.0" />
+      <point x="5209.88259829683" y="599.0" />
+      <point x="-2.82758620689674" y="104.5" />
+    </edge>
+    <edge source="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.RareWeapon.RareAdjective" target="za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon.RareWeapon">
+      <point x="62.25" y="126.5" />
+      <point x="7157.150672026001" y="4264.0" />
+      <point x="6972.242109502522" y="4264.0" />
+      <point x="64.875" y="-61.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.1" x="7656.0" y="9432.0" />
+  <SelectedNodes>
+    <node>za.ac.mandela.WRPV301.Capstone.Item.Player.Armour.ArmourAdjective</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>Project Files</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

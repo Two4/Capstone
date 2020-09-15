@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.Cursor?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.CheckMenuItem?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.control.Menu?>
+<?import javafx.scene.control.MenuBar?>
+<?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.TextFlow?>
+
+<VBox maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="za.ac.mandela.WRPV301.Capstone.UI.GameController">
+   <children>
+      <MenuBar maxWidth="1.7976931348623157E308" VBox.vgrow="NEVER">
+        <menus>
+          <Menu mnemonicParsing="false" text="File">
+            <items>
+                  <MenuItem fx:id="newGameButton" mnemonicParsing="false" onAction="#newGame" text="New Game..." />
+              <MenuItem fx:id="saveButton" mnemonicParsing="false" onAction="#save" text="Save..." />
+                  <MenuItem fx:id="loadButton" mnemonicParsing="false" onAction="#load" text="Load..." />
+                  <MenuItem fx:id="closeButton" mnemonicParsing="false" onAction="#close" text="Close" />
+            </items>
+          </Menu>
+          <Menu mnemonicParsing="false" text="Options">
+            <items>
+                  <CheckMenuItem fx:id="cheatModeCheckBox" mnemonicParsing="false" onAction="#toggleCheatMode" text="Cheats" />
+            </items>
+          </Menu>
+        </menus>
+      </MenuBar>
+      <BorderPane maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" prefHeight="480.0" prefWidth="640.0" VBox.vgrow="ALWAYS">
+         <center>
+            <AnchorPane maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" minHeight="200.0" minWidth="200.0" BorderPane.alignment="TOP_LEFT">
+               <children>
+                  <ScrollPane fx:id="mainScrollPane" cacheShape="false" focusTraversable="false" hbarPolicy="ALWAYS" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" minHeight="100.0" minWidth="100.0" pannable="true" vbarPolicy="ALWAYS" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+                     <cursor>
+                        <Cursor fx:constant="OPEN_HAND" />
+                     </cursor>
+                  </ScrollPane>
+               </children>
+               <padding>
+                  <Insets bottom="5.0" />
+               </padding>
+            </AnchorPane>
+         </center>
+         <right>
+            <VBox maxHeight="1.7976931348623157E308" maxWidth="-Infinity" minWidth="-Infinity" prefWidth="200.0" spacing="5.0" BorderPane.alignment="CENTER">
+               <children>
+                  <Button fx:id="centerButton" mnemonicParsing="false" onAction="#centerCanvas" text="Center on Player" VBox.vgrow="NEVER" />
+                  <Label text="Inventory" />
+                  <ListView fx:id="inventoryListView" maxHeight="1.7976931348623157E308" prefWidth="200.0" VBox.vgrow="ALWAYS" />
+               </children>
+               <BorderPane.margin>
+                  <Insets />
+               </BorderPane.margin>
+               <padding>
+                  <Insets bottom="5.0" left="5.0" />
+               </padding>
+            </VBox>
+         </right>
+         <bottom>
+            <VBox maxHeight="-Infinity" maxWidth="1.7976931348623157E308" minHeight="-Infinity" prefHeight="200.0" spacing="5.0" BorderPane.alignment="CENTER">
+               <children>
+                  <ScrollPane fx:id="consoleScrollPane" fitToWidth="true" VBox.vgrow="ALWAYS">
+                     <content>
+                        <TextFlow fx:id="consoleOutputTextFlow" lineSpacing="3.0" maxHeight="1.7976931348623157E308" />
+                     </content>
+                  </ScrollPane>
+                  <HBox spacing="5.0">
+                     <children>
+                        <TextField fx:id="userInputTextField" maxWidth="1.7976931348623157E308" onAction="#inputSubmit" onKeyPressed="#inputKeyPressed" promptText="Type commands here, e.g. 'go north'" HBox.hgrow="ALWAYS" />
+                        <Button fx:id="userInputSubmitButton" mnemonicParsing="false" onAction="#inputSubmit" text="Submit" />
+                     </children>
+                  </HBox>
+               </children>
+            </VBox>
+         </bottom>
+         <padding>
+            <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+         </padding>
+      </BorderPane>
+   </children>
+</VBox>

@@ -1,0 +1,14 @@
+module:za.ac.mandela.WRPV301.Capstone
+za.ac.mandela.WRPV301.Capstone
+za.ac.mandela.WRPV301.Capstone.Action
+za.ac.mandela.WRPV301.Capstone.Combat
+za.ac.mandela.WRPV301.Capstone.Event
+za.ac.mandela.WRPV301.Capstone.Item.Player
+za.ac.mandela.WRPV301.Capstone.Item.Player.Armour
+za.ac.mandela.WRPV301.Capstone.Item.Player.Weapon
+za.ac.mandela.WRPV301.Capstone.Item.Room
+za.ac.mandela.WRPV301.Capstone.Map
+za.ac.mandela.WRPV301.Capstone.Map.Access
+za.ac.mandela.WRPV301.Capstone.Map.Location
+za.ac.mandela.WRPV301.Capstone.UI
+za.ac.mandela.WRPV301.Capstone.Util
